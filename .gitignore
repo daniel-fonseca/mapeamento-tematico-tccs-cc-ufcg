@@ -1,0 +1,5 @@
+# Ambientes virtuais locais
+envs/
+
+# Dados intermediários (pré-processados para modelagem)
+data/interim/
