@@ -1,0 +1,18 @@
+# === Tratamento de final de linha (evita CRLF/LF quebrando CSVs e código) ===
+* text=auto eol=lf
+
+# === Força UTF-8 em arquivos críticos ===
+*.ipynb text working-tree-encoding=UTF-8
+*.csv   text working-tree-encoding=UTF-8
+*.md    text working-tree-encoding=UTF-8
+*.txt   text working-tree-encoding=UTF-8
+
+# === Binários (não tentar diff) ===
+*.pkl   binary
+*.mm    binary
+*.lda   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.pdf   binary
+*.html  text
