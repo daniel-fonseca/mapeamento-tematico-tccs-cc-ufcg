@@ -1,0 +1,49 @@
+{
+  "timestamp": "2025-08-26T00:05:13.937164Z",
+  "random_state_base": 42,
+  "k_grid": [
+    5,
+    10,
+    15,
+    20,
+    25,
+    30
+  ],
+  "k_selected": 10,
+  "training_params": {
+    "passes": 10,
+    "iterations": 400,
+    "chunksize": 2000,
+    "alpha": "auto",
+    "eta": "auto",
+    "n_restarts": 3
+  },
+  "coherence_metrics": {
+    "table_csv": "data\\processed\\lda\\coherences.csv",
+    "primary_metric": "c_v",
+    "tie_breaker": "c_npmi",
+    "umass_included": true
+  },
+  "stability": {
+    "method": "mean_jaccard_top10_best_matching"
+  },
+  "inputs": {
+    "corpus_mm": "data\\interim\\lda\\bow.mm",
+    "vocab_dict": "data\\interim\\lda\\vocab_bow.dict",
+    "bow_index_csv": "data\\interim\\lda\\bow_index.csv",
+    "vocab_terms_csv": "data\\interim\\lda\\vocab_terms.csv",
+    "tokens_used_for_cv_npmi": true
+  },
+  "outputs": {
+    "model_lda": "data\\processed\\lda\\model.lda",
+    "topics_png": "reports\\figs\\lda_topics.png",
+    "doc_dist_png": "reports\\figs\\lda_doc_topic_dist.png",
+    "ldavis_html": "reports\\figs\\lda_vis.html"
+  },
+  "env": {
+    "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "gensim": "4.3.2",
+    "pyLDAvis": "3.4.0",
+    "numpy": "1.26.4"
+  }
+}
