@@ -1,0 +1,23 @@
+{
+  "docs_totais": 423,
+  "docs_usados": 423,
+  "vocab_inicial": 4968,
+  "vocab_final": 1218,
+  "nnz": 20066,
+  "sparsidade": 0.038946923026160006,
+  "no_below": 5,
+  "no_above": 0.5,
+  "df_min": 5,
+  "df_max": 186,
+  "bow_shape": [
+    423,
+    1218
+  ],
+  "artefatos": {
+    "dictionary": "..\\..\\data\\interim\\lda\\vocab_bow.dict",
+    "mm_corpus": "..\\..\\data\\interim\\lda\\bow.mm",
+    "vocab_terms": "..\\..\\data\\interim\\lda\\vocab_terms.csv",
+    "bow_index": "..\\..\\data\\interim\\lda\\bow_index.csv",
+    "csr_npz": "..\\..\\data\\interim\\lda\\bow_csr.npz"
+  }
+}
