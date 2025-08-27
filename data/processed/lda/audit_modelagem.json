@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T18:27:49.964613Z",
+  "timestamp": "2025-08-27T19:04:11.068436Z",
   "random_state_base": 42,
   "k_grid": [
     5,
@@ -9,7 +9,7 @@
     25,
     30
   ],
-  "k_selected": 30,
+  "k_selected": 5,
   "training_params": {
     "passes": 10,
     "iterations": 400,
