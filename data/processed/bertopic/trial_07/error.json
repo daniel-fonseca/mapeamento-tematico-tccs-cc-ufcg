@@ -1,0 +1,4 @@
+{
+  "trial_id": "trial_07",
+  "error": "ValueError('max_df corresponds to < documents than min_df')"
+}

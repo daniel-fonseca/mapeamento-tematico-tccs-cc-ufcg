@@ -1,0 +1,4 @@
+{
+  "trial_id": "trial_01",
+  "error": "ValueError('unable to interpret topic as either a list of tokens or a list of ids')"
+}

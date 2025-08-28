@@ -1,0 +1,4 @@
+{
+  "trial_id": "trial_17",
+  "error": "ValueError(\"'texts' should be provided for %s coherence.\", 'c_uci')"
+}
