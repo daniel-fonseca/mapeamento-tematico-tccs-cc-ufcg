@@ -1,0 +1,8 @@
+{
+  "topic_diversity@10": 0.7,
+  "c_npmi": 0.0777613241711474,
+  "c_uci": -1.3897656508190752,
+  "outlier_rate": 0.0,
+  "n_topics_excl_-1": 2,
+  "fit_time_sec": 1.3956489562988281
+}
