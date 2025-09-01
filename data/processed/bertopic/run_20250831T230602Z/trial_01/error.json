@@ -1,0 +1,4 @@
+{
+  "trial_id": "trial_01",
+  "error": "AttributeError(\"'bool' object has no attribute 'sum'\")"
+}
