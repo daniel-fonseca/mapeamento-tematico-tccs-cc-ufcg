@@ -1,0 +1,551 @@
+topic,topic_label,orientador,P_orientador_given_topic,n_docs_topic,n_docs_orientador_assigned
+0,0_modelos_dados_linguagem_imagens,"GOMES, Herman Martins.",0.11038961038961038,52,23
+0,0_modelos_dados_linguagem_imagens,"CAMPELO, Claudio Elízio Calazans.",0.09740259740259741,52,22
+0,0_modelos_dados_linguagem_imagens,"MARINHO, Leandro Balby.",0.05844155844155844,52,7
+0,0_modelos_dados_linguagem_imagens,"MORAIS, Fábio Jorge Almeida.",0.05844155844155844,52,19
+0,0_modelos_dados_linguagem_imagens,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.045454545454545456,52,13
+0,0_modelos_dados_linguagem_imagens,"GHEYI, Rohit.",0.045454545454545456,52,10
+0,0_modelos_dados_linguagem_imagens,"MASSONI, Tiago Lima.",0.045454545454545456,52,30
+0,0_modelos_dados_linguagem_imagens,"BAPTISTA, Cláudio de Souza.",0.032467532467532464,52,17
+0,0_modelos_dados_linguagem_imagens,"GHEYI, Rohit Gheyi.",0.032467532467532464,52,2
+0,0_modelos_dados_linguagem_imagens,"MONTEIRO, João Arthur Brunet.",0.032467532467532464,52,15
+0,0_modelos_dados_linguagem_imagens,"RAMALHO, Franklin de Souza.",0.032467532467532464,52,11
+0,0_modelos_dados_linguagem_imagens,"ALVES, Everton Leandro Galdino.",0.01948051948051948,52,9
+0,0_modelos_dados_linguagem_imagens,"ANDRADE, Nazareno Ferreira de.",0.01948051948051948,52,4
+0,0_modelos_dados_linguagem_imagens,"BRITO, Andrey Elísio Monteiro.",0.01948051948051948,52,12
+0,0_modelos_dados_linguagem_imagens,"BRUNET, João Arthur Monteiro.",0.01948051948051948,52,10
+0,0_modelos_dados_linguagem_imagens,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.01948051948051948,52,1
+0,0_modelos_dados_linguagem_imagens,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.01948051948051948,52,12
+0,0_modelos_dados_linguagem_imagens,"MELCHER, Elmar Uwe Kurt.",0.01948051948051948,52,1
+0,0_modelos_dados_linguagem_imagens,"MOURA, José Antão Beltrão.",0.01948051948051948,52,16
+0,0_modelos_dados_linguagem_imagens,"Marinho, Leandro Balby",0.01948051948051948,52,1
+0,0_modelos_dados_linguagem_imagens,"OLIVEIRA, Maxwell Guimarães de.",0.01948051948051948,52,5
+0,0_modelos_dados_linguagem_imagens,"PEREIRA, Eanes Torres.",0.01948051948051948,52,7
+0,0_modelos_dados_linguagem_imagens,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.01948051948051948,52,16
+0,0_modelos_dados_linguagem_imagens,"ALMEIDA, Hyggo Oliveira de.",0.006493506493506494,52,4
+0,0_modelos_dados_linguagem_imagens,"ANDRADE, Wilkerson de Lucena.",0.006493506493506494,52,9
+0,0_modelos_dados_linguagem_imagens,"ARAÚJO, Elaine Cristina de.",0.006493506493506494,52,1
+0,0_modelos_dados_linguagem_imagens,"ARAÚJO, Eliane Cristina de.",0.006493506493506494,52,8
+0,0_modelos_dados_linguagem_imagens,"BARROS, Marcelo Alves de.",0.006493506493506494,52,7
+0,0_modelos_dados_linguagem_imagens,"BRASILEIRO, Francisco Vilar.",0.006493506493506494,52,7
+0,0_modelos_dados_linguagem_imagens,"CAMPOS, Lívia Maria Sampaio.",0.006493506493506494,52,1
+0,0_modelos_dados_linguagem_imagens,"FARIA, Roberto Medeiros de.",0.006493506493506494,52,1
+0,0_modelos_dados_linguagem_imagens,"FARIAS, Adalberto Cajueiro de.",0.006493506493506494,52,4
+0,0_modelos_dados_linguagem_imagens,"FECHINE, Joseana Macêdo.",0.006493506493506494,52,4
+0,0_modelos_dados_linguagem_imagens,"GARCIA, Franceline Procópio.",0.006493506493506494,52,2
+0,0_modelos_dados_linguagem_imagens,"GARCIA, Francilene Procópio.",0.006493506493506494,52,8
+0,0_modelos_dados_linguagem_imagens,"GOMES, Reinaldo Cézar de Morais.",0.006493506493506494,52,5
+0,0_modelos_dados_linguagem_imagens,"GORGÔNIO, Kyller Costa.",0.006493506493506494,52,2
+0,0_modelos_dados_linguagem_imagens,"GUERRERO, Dalton Dario Serey.",0.006493506493506494,52,2
+0,0_modelos_dados_linguagem_imagens,"LIRA, Melina Mongiovi Brito.",0.006493506493506494,52,4
+0,0_modelos_dados_linguagem_imagens,"MONGIOVI, Melina.",0.006493506493506494,52,1
+0,0_modelos_dados_linguagem_imagens,"MORAES, Fábio Jorge Almeida.",0.006493506493506494,52,1
+0,0_modelos_dados_linguagem_imagens,"NICOLLETTI, Pedro Sergio.",0.006493506493506494,52,1
+0,0_modelos_dados_linguagem_imagens,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.006493506493506494,52,2
+0,0_modelos_dados_linguagem_imagens,"PEREIRA, Thiago Emmanuel.",0.006493506493506494,52,2
+0,0_modelos_dados_linguagem_imagens,"PIRES, Carlos Eduardo Santos.",0.006493506493506494,52,9
+0,0_modelos_dados_linguagem_imagens,"PROCÓPIO, Francilene García.",0.006493506493506494,52,1
+0,0_modelos_dados_linguagem_imagens,"RÊGO, Matheus Gaudencio do.",0.006493506493506494,52,6
+0,0_modelos_dados_linguagem_imagens,"SABINO, Melina Mongiovi Cunha Lima.",0.006493506493506494,52,5
+0,0_modelos_dados_linguagem_imagens,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.006493506493506494,52,1
+0,0_modelos_dados_linguagem_imagens,"SILVA, Emmanuel Pereira da Cunha.",0.006493506493506494,52,1
+1,1_nuvem_recursos_dados_sistema,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.125,51,16
+1,1_nuvem_recursos_dados_sistema,"MORAIS, Fábio Jorge Almeida.",0.08552631578947369,51,19
+1,1_nuvem_recursos_dados_sistema,"BRITO, Andrey Elísio Monteiro.",0.07236842105263158,51,12
+1,1_nuvem_recursos_dados_sistema,"GOMES, Reinaldo Cézar de Morais.",0.07236842105263158,51,5
+1,1_nuvem_recursos_dados_sistema,"BAPTISTA, Cláudio de Souza.",0.046052631578947366,51,17
+1,1_nuvem_recursos_dados_sistema,"CAMPELO, Claudio Elízio Calazans.",0.046052631578947366,51,22
+1,1_nuvem_recursos_dados_sistema,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.03289473684210526,51,13
+1,1_nuvem_recursos_dados_sistema,"BRUNET, João Arthur Monteiro.",0.03289473684210526,51,10
+1,1_nuvem_recursos_dados_sistema,"GOMES, Herman Martins.",0.03289473684210526,51,23
+1,1_nuvem_recursos_dados_sistema,"MOURA, José Antão Beltrão.",0.03289473684210526,51,16
+1,1_nuvem_recursos_dados_sistema,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.03289473684210526,51,2
+1,1_nuvem_recursos_dados_sistema,"ANDRADE, Wilkerson de Lucena.",0.019736842105263157,51,9
+1,1_nuvem_recursos_dados_sistema,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.019736842105263157,51,12
+1,1_nuvem_recursos_dados_sistema,"GORGÔNIO, Kyller Costa.",0.019736842105263157,51,2
+1,1_nuvem_recursos_dados_sistema,"MARINHO, Leandro Balby.",0.019736842105263157,51,7
+1,1_nuvem_recursos_dados_sistema,"MASSONI, Tiago Lima.",0.019736842105263157,51,30
+1,1_nuvem_recursos_dados_sistema,"MONGIOVI, Melina.",0.019736842105263157,51,1
+1,1_nuvem_recursos_dados_sistema,"MONTEIRO, João Arthur Brunet.",0.019736842105263157,51,15
+1,1_nuvem_recursos_dados_sistema,"PEREIRA, Eanes Torres.",0.019736842105263157,51,7
+1,1_nuvem_recursos_dados_sistema,"PEREIRA, Thiago Emmanuel.",0.019736842105263157,51,2
+1,1_nuvem_recursos_dados_sistema,"SILVA, Emmanuel Pereira da Cunha.",0.019736842105263157,51,1
+1,1_nuvem_recursos_dados_sistema,"ALMEIDA, Hyggo Oliveira de.",0.006578947368421052,51,4
+1,1_nuvem_recursos_dados_sistema,"ALVES, Everton Leandro Galdino.",0.006578947368421052,51,9
+1,1_nuvem_recursos_dados_sistema,"ANDRADE, Nazareno Ferreira de.",0.006578947368421052,51,4
+1,1_nuvem_recursos_dados_sistema,"ARAÚJO, Elaine Cristina de.",0.006578947368421052,51,1
+1,1_nuvem_recursos_dados_sistema,"ARAÚJO, Eliane Cristina de.",0.006578947368421052,51,8
+1,1_nuvem_recursos_dados_sistema,"BARROS, Marcelo Alves de.",0.006578947368421052,51,7
+1,1_nuvem_recursos_dados_sistema,"BRASILEIRO, Francisco Vilar.",0.006578947368421052,51,7
+1,1_nuvem_recursos_dados_sistema,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.006578947368421052,51,1
+1,1_nuvem_recursos_dados_sistema,"CAMPOS, Lívia Maria Sampaio.",0.006578947368421052,51,1
+1,1_nuvem_recursos_dados_sistema,"FARIA, Roberto Medeiros de.",0.006578947368421052,51,1
+1,1_nuvem_recursos_dados_sistema,"FARIAS, Adalberto Cajueiro de.",0.006578947368421052,51,4
+1,1_nuvem_recursos_dados_sistema,"FECHINE, Joseana Macêdo.",0.006578947368421052,51,4
+1,1_nuvem_recursos_dados_sistema,"GARCIA, Franceline Procópio.",0.006578947368421052,51,2
+1,1_nuvem_recursos_dados_sistema,"GARCIA, Francilene Procópio.",0.006578947368421052,51,8
+1,1_nuvem_recursos_dados_sistema,"GHEYI, Rohit Gheyi.",0.006578947368421052,51,2
+1,1_nuvem_recursos_dados_sistema,"GHEYI, Rohit.",0.006578947368421052,51,10
+1,1_nuvem_recursos_dados_sistema,"GUERRERO, Dalton Dario Serey.",0.006578947368421052,51,2
+1,1_nuvem_recursos_dados_sistema,"LIRA, Melina Mongiovi Brito.",0.006578947368421052,51,4
+1,1_nuvem_recursos_dados_sistema,"MELCHER, Elmar Uwe Kurt.",0.006578947368421052,51,1
+1,1_nuvem_recursos_dados_sistema,"MORAES, Fábio Jorge Almeida.",0.006578947368421052,51,1
+1,1_nuvem_recursos_dados_sistema,"Marinho, Leandro Balby",0.006578947368421052,51,1
+1,1_nuvem_recursos_dados_sistema,"NICOLLETTI, Pedro Sergio.",0.006578947368421052,51,1
+1,1_nuvem_recursos_dados_sistema,"OLIVEIRA, Maxwell Guimarães de.",0.006578947368421052,51,5
+1,1_nuvem_recursos_dados_sistema,"PIRES, Carlos Eduardo Santos.",0.006578947368421052,51,9
+1,1_nuvem_recursos_dados_sistema,"PROCÓPIO, Francilene García.",0.006578947368421052,51,1
+1,1_nuvem_recursos_dados_sistema,"RAMALHO, Franklin de Souza.",0.006578947368421052,51,11
+1,1_nuvem_recursos_dados_sistema,"RÊGO, Matheus Gaudencio do.",0.006578947368421052,51,6
+1,1_nuvem_recursos_dados_sistema,"SABINO, Melina Mongiovi Cunha Lima.",0.006578947368421052,51,5
+1,1_nuvem_recursos_dados_sistema,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.006578947368421052,51,1
+2,2_alunos_computao_programao_sistema,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.07971014492753623,44,12
+2,2_alunos_computao_programao_sistema,"MASSONI, Tiago Lima.",0.07971014492753623,44,30
+2,2_alunos_computao_programao_sistema,"ARAÚJO, Eliane Cristina de.",0.050724637681159424,44,8
+2,2_alunos_computao_programao_sistema,"CAMPELO, Claudio Elízio Calazans.",0.050724637681159424,44,22
+2,2_alunos_computao_programao_sistema,"ANDRADE, Wilkerson de Lucena.",0.036231884057971016,44,9
+2,2_alunos_computao_programao_sistema,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.036231884057971016,44,13
+2,2_alunos_computao_programao_sistema,"BARROS, Marcelo Alves de.",0.036231884057971016,44,7
+2,2_alunos_computao_programao_sistema,"BRITO, Andrey Elísio Monteiro.",0.036231884057971016,44,12
+2,2_alunos_computao_programao_sistema,"GARCIA, Francilene Procópio.",0.036231884057971016,44,8
+2,2_alunos_computao_programao_sistema,"LIRA, Melina Mongiovi Brito.",0.036231884057971016,44,4
+2,2_alunos_computao_programao_sistema,"RÊGO, Matheus Gaudencio do.",0.036231884057971016,44,6
+2,2_alunos_computao_programao_sistema,"ALVES, Everton Leandro Galdino.",0.021739130434782608,44,9
+2,2_alunos_computao_programao_sistema,"ARAÚJO, Elaine Cristina de.",0.021739130434782608,44,1
+2,2_alunos_computao_programao_sistema,"BRASILEIRO, Francisco Vilar.",0.021739130434782608,44,7
+2,2_alunos_computao_programao_sistema,"BRUNET, João Arthur Monteiro.",0.021739130434782608,44,10
+2,2_alunos_computao_programao_sistema,"CAMPOS, Lívia Maria Sampaio.",0.021739130434782608,44,1
+2,2_alunos_computao_programao_sistema,"FARIAS, Adalberto Cajueiro de.",0.021739130434782608,44,4
+2,2_alunos_computao_programao_sistema,"FECHINE, Joseana Macêdo.",0.021739130434782608,44,4
+2,2_alunos_computao_programao_sistema,"GHEYI, Rohit.",0.021739130434782608,44,10
+2,2_alunos_computao_programao_sistema,"GOMES, Herman Martins.",0.021739130434782608,44,23
+2,2_alunos_computao_programao_sistema,"GORGÔNIO, Kyller Costa.",0.021739130434782608,44,2
+2,2_alunos_computao_programao_sistema,"MONTEIRO, João Arthur Brunet.",0.021739130434782608,44,15
+2,2_alunos_computao_programao_sistema,"MORAIS, Fábio Jorge Almeida.",0.021739130434782608,44,19
+2,2_alunos_computao_programao_sistema,"MOURA, José Antão Beltrão.",0.021739130434782608,44,16
+2,2_alunos_computao_programao_sistema,"PIRES, Carlos Eduardo Santos.",0.021739130434782608,44,9
+2,2_alunos_computao_programao_sistema,"ALMEIDA, Hyggo Oliveira de.",0.007246376811594203,44,4
+2,2_alunos_computao_programao_sistema,"ANDRADE, Nazareno Ferreira de.",0.007246376811594203,44,4
+2,2_alunos_computao_programao_sistema,"BAPTISTA, Cláudio de Souza.",0.007246376811594203,44,17
+2,2_alunos_computao_programao_sistema,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"FARIA, Roberto Medeiros de.",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"GARCIA, Franceline Procópio.",0.007246376811594203,44,2
+2,2_alunos_computao_programao_sistema,"GHEYI, Rohit Gheyi.",0.007246376811594203,44,2
+2,2_alunos_computao_programao_sistema,"GOMES, Reinaldo Cézar de Morais.",0.007246376811594203,44,5
+2,2_alunos_computao_programao_sistema,"GUERRERO, Dalton Dario Serey.",0.007246376811594203,44,2
+2,2_alunos_computao_programao_sistema,"MARINHO, Leandro Balby.",0.007246376811594203,44,7
+2,2_alunos_computao_programao_sistema,"MELCHER, Elmar Uwe Kurt.",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"MONGIOVI, Melina.",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"MORAES, Fábio Jorge Almeida.",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"Marinho, Leandro Balby",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"NICOLLETTI, Pedro Sergio.",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"OLIVEIRA, Maxwell Guimarães de.",0.007246376811594203,44,5
+2,2_alunos_computao_programao_sistema,"PEREIRA, Eanes Torres.",0.007246376811594203,44,7
+2,2_alunos_computao_programao_sistema,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.007246376811594203,44,2
+2,2_alunos_computao_programao_sistema,"PEREIRA, Thiago Emmanuel.",0.007246376811594203,44,2
+2,2_alunos_computao_programao_sistema,"PROCÓPIO, Francilene García.",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"RAMALHO, Franklin de Souza.",0.007246376811594203,44,11
+2,2_alunos_computao_programao_sistema,"SABINO, Melina Mongiovi Cunha Lima.",0.007246376811594203,44,5
+2,2_alunos_computao_programao_sistema,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"SILVA, Emmanuel Pereira da Cunha.",0.007246376811594203,44,1
+2,2_alunos_computao_programao_sistema,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.007246376811594203,44,16
+3,3_software_projetos_cdigo_bugs,"RAMALHO, Franklin de Souza.",0.12686567164179105,42,11
+3,3_software_projetos_cdigo_bugs,"MASSONI, Tiago Lima.",0.11194029850746269,42,30
+3,3_software_projetos_cdigo_bugs,"RÊGO, Matheus Gaudencio do.",0.06716417910447761,42,6
+3,3_software_projetos_cdigo_bugs,"ALVES, Everton Leandro Galdino.",0.05223880597014925,42,9
+3,3_software_projetos_cdigo_bugs,"GHEYI, Rohit.",0.05223880597014925,42,10
+3,3_software_projetos_cdigo_bugs,"MONTEIRO, João Arthur Brunet.",0.05223880597014925,42,15
+3,3_software_projetos_cdigo_bugs,"MOURA, José Antão Beltrão.",0.05223880597014925,42,16
+3,3_software_projetos_cdigo_bugs,"BRUNET, João Arthur Monteiro.",0.03731343283582089,42,10
+3,3_software_projetos_cdigo_bugs,"CAMPELO, Claudio Elízio Calazans.",0.03731343283582089,42,22
+3,3_software_projetos_cdigo_bugs,"ALMEIDA, Hyggo Oliveira de.",0.022388059701492536,42,4
+3,3_software_projetos_cdigo_bugs,"BAPTISTA, Cláudio de Souza.",0.022388059701492536,42,17
+3,3_software_projetos_cdigo_bugs,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.022388059701492536,42,12
+3,3_software_projetos_cdigo_bugs,"LIRA, Melina Mongiovi Brito.",0.022388059701492536,42,4
+3,3_software_projetos_cdigo_bugs,"OLIVEIRA, Maxwell Guimarães de.",0.022388059701492536,42,5
+3,3_software_projetos_cdigo_bugs,"PEREIRA, Eanes Torres.",0.022388059701492536,42,7
+3,3_software_projetos_cdigo_bugs,"PEREIRA, Thiago Emmanuel.",0.022388059701492536,42,2
+3,3_software_projetos_cdigo_bugs,"ANDRADE, Nazareno Ferreira de.",0.007462686567164179,42,4
+3,3_software_projetos_cdigo_bugs,"ANDRADE, Wilkerson de Lucena.",0.007462686567164179,42,9
+3,3_software_projetos_cdigo_bugs,"ARAÚJO, Elaine Cristina de.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"ARAÚJO, Eliane Cristina de.",0.007462686567164179,42,8
+3,3_software_projetos_cdigo_bugs,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.007462686567164179,42,13
+3,3_software_projetos_cdigo_bugs,"BARROS, Marcelo Alves de.",0.007462686567164179,42,7
+3,3_software_projetos_cdigo_bugs,"BRASILEIRO, Francisco Vilar.",0.007462686567164179,42,7
+3,3_software_projetos_cdigo_bugs,"BRITO, Andrey Elísio Monteiro.",0.007462686567164179,42,12
+3,3_software_projetos_cdigo_bugs,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"CAMPOS, Lívia Maria Sampaio.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"FARIA, Roberto Medeiros de.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"FARIAS, Adalberto Cajueiro de.",0.007462686567164179,42,4
+3,3_software_projetos_cdigo_bugs,"FECHINE, Joseana Macêdo.",0.007462686567164179,42,4
+3,3_software_projetos_cdigo_bugs,"GARCIA, Franceline Procópio.",0.007462686567164179,42,2
+3,3_software_projetos_cdigo_bugs,"GARCIA, Francilene Procópio.",0.007462686567164179,42,8
+3,3_software_projetos_cdigo_bugs,"GHEYI, Rohit Gheyi.",0.007462686567164179,42,2
+3,3_software_projetos_cdigo_bugs,"GOMES, Herman Martins.",0.007462686567164179,42,23
+3,3_software_projetos_cdigo_bugs,"GOMES, Reinaldo Cézar de Morais.",0.007462686567164179,42,5
+3,3_software_projetos_cdigo_bugs,"GORGÔNIO, Kyller Costa.",0.007462686567164179,42,2
+3,3_software_projetos_cdigo_bugs,"GUERRERO, Dalton Dario Serey.",0.007462686567164179,42,2
+3,3_software_projetos_cdigo_bugs,"MARINHO, Leandro Balby.",0.007462686567164179,42,7
+3,3_software_projetos_cdigo_bugs,"MELCHER, Elmar Uwe Kurt.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"MONGIOVI, Melina.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"MORAES, Fábio Jorge Almeida.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"MORAIS, Fábio Jorge Almeida.",0.007462686567164179,42,19
+3,3_software_projetos_cdigo_bugs,"Marinho, Leandro Balby",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"NICOLLETTI, Pedro Sergio.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.007462686567164179,42,2
+3,3_software_projetos_cdigo_bugs,"PIRES, Carlos Eduardo Santos.",0.007462686567164179,42,9
+3,3_software_projetos_cdigo_bugs,"PROCÓPIO, Francilene García.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"SABINO, Melina Mongiovi Cunha Lima.",0.007462686567164179,42,5
+3,3_software_projetos_cdigo_bugs,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"SILVA, Emmanuel Pereira da Cunha.",0.007462686567164179,42,1
+3,3_software_projetos_cdigo_bugs,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.007462686567164179,42,16
+4,4_dados_digital_sobre_privacidade,"MORAIS, Fábio Jorge Almeida.",0.0859375,39,19
+4,4_dados_digital_sobre_privacidade,"CAMPELO, Claudio Elízio Calazans.",0.0703125,39,22
+4,4_dados_digital_sobre_privacidade,"PEREIRA, Eanes Torres.",0.0703125,39,7
+4,4_dados_digital_sobre_privacidade,"MONTEIRO, João Arthur Brunet.",0.0546875,39,15
+4,4_dados_digital_sobre_privacidade,"ANDRADE, Nazareno Ferreira de.",0.0390625,39,4
+4,4_dados_digital_sobre_privacidade,"BAPTISTA, Cláudio de Souza.",0.0390625,39,17
+4,4_dados_digital_sobre_privacidade,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.0390625,39,12
+4,4_dados_digital_sobre_privacidade,"GOMES, Herman Martins.",0.0390625,39,23
+4,4_dados_digital_sobre_privacidade,"OLIVEIRA, Maxwell Guimarães de.",0.0390625,39,5
+4,4_dados_digital_sobre_privacidade,"PIRES, Carlos Eduardo Santos.",0.0390625,39,9
+4,4_dados_digital_sobre_privacidade,"ARAÚJO, Eliane Cristina de.",0.0234375,39,8
+4,4_dados_digital_sobre_privacidade,"BARROS, Marcelo Alves de.",0.0234375,39,7
+4,4_dados_digital_sobre_privacidade,"BRITO, Andrey Elísio Monteiro.",0.0234375,39,12
+4,4_dados_digital_sobre_privacidade,"FECHINE, Joseana Macêdo.",0.0234375,39,4
+4,4_dados_digital_sobre_privacidade,"GARCIA, Franceline Procópio.",0.0234375,39,2
+4,4_dados_digital_sobre_privacidade,"GARCIA, Francilene Procópio.",0.0234375,39,8
+4,4_dados_digital_sobre_privacidade,"MARINHO, Leandro Balby.",0.0234375,39,7
+4,4_dados_digital_sobre_privacidade,"MASSONI, Tiago Lima.",0.0234375,39,30
+4,4_dados_digital_sobre_privacidade,"NICOLLETTI, Pedro Sergio.",0.0234375,39,1
+4,4_dados_digital_sobre_privacidade,"SABINO, Melina Mongiovi Cunha Lima.",0.0234375,39,5
+4,4_dados_digital_sobre_privacidade,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.0234375,39,1
+4,4_dados_digital_sobre_privacidade,"ALMEIDA, Hyggo Oliveira de.",0.0078125,39,4
+4,4_dados_digital_sobre_privacidade,"ALVES, Everton Leandro Galdino.",0.0078125,39,9
+4,4_dados_digital_sobre_privacidade,"ANDRADE, Wilkerson de Lucena.",0.0078125,39,9
+4,4_dados_digital_sobre_privacidade,"ARAÚJO, Elaine Cristina de.",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.0078125,39,13
+4,4_dados_digital_sobre_privacidade,"BRASILEIRO, Francisco Vilar.",0.0078125,39,7
+4,4_dados_digital_sobre_privacidade,"BRUNET, João Arthur Monteiro.",0.0078125,39,10
+4,4_dados_digital_sobre_privacidade,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"CAMPOS, Lívia Maria Sampaio.",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"FARIA, Roberto Medeiros de.",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"FARIAS, Adalberto Cajueiro de.",0.0078125,39,4
+4,4_dados_digital_sobre_privacidade,"GHEYI, Rohit Gheyi.",0.0078125,39,2
+4,4_dados_digital_sobre_privacidade,"GHEYI, Rohit.",0.0078125,39,10
+4,4_dados_digital_sobre_privacidade,"GOMES, Reinaldo Cézar de Morais.",0.0078125,39,5
+4,4_dados_digital_sobre_privacidade,"GORGÔNIO, Kyller Costa.",0.0078125,39,2
+4,4_dados_digital_sobre_privacidade,"GUERRERO, Dalton Dario Serey.",0.0078125,39,2
+4,4_dados_digital_sobre_privacidade,"LIRA, Melina Mongiovi Brito.",0.0078125,39,4
+4,4_dados_digital_sobre_privacidade,"MELCHER, Elmar Uwe Kurt.",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"MONGIOVI, Melina.",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"MORAES, Fábio Jorge Almeida.",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"MOURA, José Antão Beltrão.",0.0078125,39,16
+4,4_dados_digital_sobre_privacidade,"Marinho, Leandro Balby",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.0078125,39,2
+4,4_dados_digital_sobre_privacidade,"PEREIRA, Thiago Emmanuel.",0.0078125,39,2
+4,4_dados_digital_sobre_privacidade,"PROCÓPIO, Francilene García.",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"RAMALHO, Franklin de Souza.",0.0078125,39,11
+4,4_dados_digital_sobre_privacidade,"RÊGO, Matheus Gaudencio do.",0.0078125,39,6
+4,4_dados_digital_sobre_privacidade,"SILVA, Emmanuel Pereira da Cunha.",0.0078125,39,1
+4,4_dados_digital_sobre_privacidade,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.0078125,39,16
+5,5_sade_animais_pandemia_dados,"GOMES, Herman Martins.",0.08870967741935484,37,23
+5,5_sade_animais_pandemia_dados,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.056451612903225805,37,13
+5,5_sade_animais_pandemia_dados,"MASSONI, Tiago Lima.",0.056451612903225805,37,30
+5,5_sade_animais_pandemia_dados,"ALMEIDA, Hyggo Oliveira de.",0.04032258064516129,37,4
+5,5_sade_animais_pandemia_dados,"ANDRADE, Wilkerson de Lucena.",0.04032258064516129,37,9
+5,5_sade_animais_pandemia_dados,"BARROS, Marcelo Alves de.",0.04032258064516129,37,7
+5,5_sade_animais_pandemia_dados,"BRUNET, João Arthur Monteiro.",0.04032258064516129,37,10
+5,5_sade_animais_pandemia_dados,"GARCIA, Francilene Procópio.",0.04032258064516129,37,8
+5,5_sade_animais_pandemia_dados,"GUERRERO, Dalton Dario Serey.",0.04032258064516129,37,2
+5,5_sade_animais_pandemia_dados,"MOURA, José Antão Beltrão.",0.04032258064516129,37,16
+5,5_sade_animais_pandemia_dados,"ALVES, Everton Leandro Galdino.",0.024193548387096774,37,9
+5,5_sade_animais_pandemia_dados,"ANDRADE, Nazareno Ferreira de.",0.024193548387096774,37,4
+5,5_sade_animais_pandemia_dados,"BAPTISTA, Cláudio de Souza.",0.024193548387096774,37,17
+5,5_sade_animais_pandemia_dados,"BRASILEIRO, Francisco Vilar.",0.024193548387096774,37,7
+5,5_sade_animais_pandemia_dados,"BRITO, Andrey Elísio Monteiro.",0.024193548387096774,37,12
+5,5_sade_animais_pandemia_dados,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.024193548387096774,37,12
+5,5_sade_animais_pandemia_dados,"FARIA, Roberto Medeiros de.",0.024193548387096774,37,1
+5,5_sade_animais_pandemia_dados,"FECHINE, Joseana Macêdo.",0.024193548387096774,37,4
+5,5_sade_animais_pandemia_dados,"MONTEIRO, João Arthur Brunet.",0.024193548387096774,37,15
+5,5_sade_animais_pandemia_dados,"MORAES, Fábio Jorge Almeida.",0.024193548387096774,37,1
+5,5_sade_animais_pandemia_dados,"PIRES, Carlos Eduardo Santos.",0.024193548387096774,37,9
+5,5_sade_animais_pandemia_dados,"PROCÓPIO, Francilene García.",0.024193548387096774,37,1
+5,5_sade_animais_pandemia_dados,"ARAÚJO, Elaine Cristina de.",0.008064516129032258,37,1
+5,5_sade_animais_pandemia_dados,"ARAÚJO, Eliane Cristina de.",0.008064516129032258,37,8
+5,5_sade_animais_pandemia_dados,"CAMPELO, Claudio Elízio Calazans.",0.008064516129032258,37,22
+5,5_sade_animais_pandemia_dados,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.008064516129032258,37,1
+5,5_sade_animais_pandemia_dados,"CAMPOS, Lívia Maria Sampaio.",0.008064516129032258,37,1
+5,5_sade_animais_pandemia_dados,"FARIAS, Adalberto Cajueiro de.",0.008064516129032258,37,4
+5,5_sade_animais_pandemia_dados,"GARCIA, Franceline Procópio.",0.008064516129032258,37,2
+5,5_sade_animais_pandemia_dados,"GHEYI, Rohit Gheyi.",0.008064516129032258,37,2
+5,5_sade_animais_pandemia_dados,"GHEYI, Rohit.",0.008064516129032258,37,10
+5,5_sade_animais_pandemia_dados,"GOMES, Reinaldo Cézar de Morais.",0.008064516129032258,37,5
+5,5_sade_animais_pandemia_dados,"GORGÔNIO, Kyller Costa.",0.008064516129032258,37,2
+5,5_sade_animais_pandemia_dados,"LIRA, Melina Mongiovi Brito.",0.008064516129032258,37,4
+5,5_sade_animais_pandemia_dados,"MARINHO, Leandro Balby.",0.008064516129032258,37,7
+5,5_sade_animais_pandemia_dados,"MELCHER, Elmar Uwe Kurt.",0.008064516129032258,37,1
+5,5_sade_animais_pandemia_dados,"MONGIOVI, Melina.",0.008064516129032258,37,1
+5,5_sade_animais_pandemia_dados,"MORAIS, Fábio Jorge Almeida.",0.008064516129032258,37,19
+5,5_sade_animais_pandemia_dados,"Marinho, Leandro Balby",0.008064516129032258,37,1
+5,5_sade_animais_pandemia_dados,"NICOLLETTI, Pedro Sergio.",0.008064516129032258,37,1
+5,5_sade_animais_pandemia_dados,"OLIVEIRA, Maxwell Guimarães de.",0.008064516129032258,37,5
+5,5_sade_animais_pandemia_dados,"PEREIRA, Eanes Torres.",0.008064516129032258,37,7
+5,5_sade_animais_pandemia_dados,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.008064516129032258,37,2
+5,5_sade_animais_pandemia_dados,"PEREIRA, Thiago Emmanuel.",0.008064516129032258,37,2
+5,5_sade_animais_pandemia_dados,"RAMALHO, Franklin de Souza.",0.008064516129032258,37,11
+5,5_sade_animais_pandemia_dados,"RÊGO, Matheus Gaudencio do.",0.008064516129032258,37,6
+5,5_sade_animais_pandemia_dados,"SABINO, Melina Mongiovi Cunha Lima.",0.008064516129032258,37,5
+5,5_sade_animais_pandemia_dados,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.008064516129032258,37,1
+5,5_sade_animais_pandemia_dados,"SILVA, Emmanuel Pereira da Cunha.",0.008064516129032258,37,1
+5,5_sade_animais_pandemia_dados,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.008064516129032258,37,16
+6,6_software_empresas_objetivo_vulnerabilidades,"MASSONI, Tiago Lima.",0.1271186440677966,34,30
+6,6_software_empresas_objetivo_vulnerabilidades,"ALVES, Everton Leandro Galdino.",0.059322033898305086,34,9
+6,6_software_empresas_objetivo_vulnerabilidades,"ANDRADE, Wilkerson de Lucena.",0.059322033898305086,34,9
+6,6_software_empresas_objetivo_vulnerabilidades,"MONTEIRO, João Arthur Brunet.",0.059322033898305086,34,15
+6,6_software_empresas_objetivo_vulnerabilidades,"MOURA, José Antão Beltrão.",0.059322033898305086,34,16
+6,6_software_empresas_objetivo_vulnerabilidades,"ARAÚJO, Eliane Cristina de.",0.0423728813559322,34,8
+6,6_software_empresas_objetivo_vulnerabilidades,"BRUNET, João Arthur Monteiro.",0.0423728813559322,34,10
+6,6_software_empresas_objetivo_vulnerabilidades,"GARCIA, Francilene Procópio.",0.0423728813559322,34,8
+6,6_software_empresas_objetivo_vulnerabilidades,"ALMEIDA, Hyggo Oliveira de.",0.025423728813559324,34,4
+6,6_software_empresas_objetivo_vulnerabilidades,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.025423728813559324,34,13
+6,6_software_empresas_objetivo_vulnerabilidades,"BAPTISTA, Cláudio de Souza.",0.025423728813559324,34,17
+6,6_software_empresas_objetivo_vulnerabilidades,"BRASILEIRO, Francisco Vilar.",0.025423728813559324,34,7
+6,6_software_empresas_objetivo_vulnerabilidades,"BRITO, Andrey Elísio Monteiro.",0.025423728813559324,34,12
+6,6_software_empresas_objetivo_vulnerabilidades,"CAMPELO, Claudio Elízio Calazans.",0.025423728813559324,34,22
+6,6_software_empresas_objetivo_vulnerabilidades,"FARIAS, Adalberto Cajueiro de.",0.025423728813559324,34,4
+6,6_software_empresas_objetivo_vulnerabilidades,"GOMES, Herman Martins.",0.025423728813559324,34,23
+6,6_software_empresas_objetivo_vulnerabilidades,"SABINO, Melina Mongiovi Cunha Lima.",0.025423728813559324,34,5
+6,6_software_empresas_objetivo_vulnerabilidades,"ANDRADE, Nazareno Ferreira de.",0.00847457627118644,34,4
+6,6_software_empresas_objetivo_vulnerabilidades,"ARAÚJO, Elaine Cristina de.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"BARROS, Marcelo Alves de.",0.00847457627118644,34,7
+6,6_software_empresas_objetivo_vulnerabilidades,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.00847457627118644,34,12
+6,6_software_empresas_objetivo_vulnerabilidades,"CAMPOS, Lívia Maria Sampaio.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"FARIA, Roberto Medeiros de.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"FECHINE, Joseana Macêdo.",0.00847457627118644,34,4
+6,6_software_empresas_objetivo_vulnerabilidades,"GARCIA, Franceline Procópio.",0.00847457627118644,34,2
+6,6_software_empresas_objetivo_vulnerabilidades,"GHEYI, Rohit Gheyi.",0.00847457627118644,34,2
+6,6_software_empresas_objetivo_vulnerabilidades,"GHEYI, Rohit.",0.00847457627118644,34,10
+6,6_software_empresas_objetivo_vulnerabilidades,"GOMES, Reinaldo Cézar de Morais.",0.00847457627118644,34,5
+6,6_software_empresas_objetivo_vulnerabilidades,"GORGÔNIO, Kyller Costa.",0.00847457627118644,34,2
+6,6_software_empresas_objetivo_vulnerabilidades,"GUERRERO, Dalton Dario Serey.",0.00847457627118644,34,2
+6,6_software_empresas_objetivo_vulnerabilidades,"LIRA, Melina Mongiovi Brito.",0.00847457627118644,34,4
+6,6_software_empresas_objetivo_vulnerabilidades,"MARINHO, Leandro Balby.",0.00847457627118644,34,7
+6,6_software_empresas_objetivo_vulnerabilidades,"MELCHER, Elmar Uwe Kurt.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"MONGIOVI, Melina.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"MORAES, Fábio Jorge Almeida.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"MORAIS, Fábio Jorge Almeida.",0.00847457627118644,34,19
+6,6_software_empresas_objetivo_vulnerabilidades,"Marinho, Leandro Balby",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"NICOLLETTI, Pedro Sergio.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"OLIVEIRA, Maxwell Guimarães de.",0.00847457627118644,34,5
+6,6_software_empresas_objetivo_vulnerabilidades,"PEREIRA, Eanes Torres.",0.00847457627118644,34,7
+6,6_software_empresas_objetivo_vulnerabilidades,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.00847457627118644,34,2
+6,6_software_empresas_objetivo_vulnerabilidades,"PEREIRA, Thiago Emmanuel.",0.00847457627118644,34,2
+6,6_software_empresas_objetivo_vulnerabilidades,"PIRES, Carlos Eduardo Santos.",0.00847457627118644,34,9
+6,6_software_empresas_objetivo_vulnerabilidades,"PROCÓPIO, Francilene García.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"RAMALHO, Franklin de Souza.",0.00847457627118644,34,11
+6,6_software_empresas_objetivo_vulnerabilidades,"RÊGO, Matheus Gaudencio do.",0.00847457627118644,34,6
+6,6_software_empresas_objetivo_vulnerabilidades,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"SILVA, Emmanuel Pereira da Cunha.",0.00847457627118644,34,1
+6,6_software_empresas_objetivo_vulnerabilidades,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.00847457627118644,34,16
+7,7_dados_logs_sistemas_banco,"PIRES, Carlos Eduardo Santos.",0.08333333333333333,17,9
+7,7_dados_logs_sistemas_banco,"MORAIS, Fábio Jorge Almeida.",0.05952380952380952,17,19
+7,7_dados_logs_sistemas_banco,"SABINO, Melina Mongiovi Cunha Lima.",0.05952380952380952,17,5
+7,7_dados_logs_sistemas_banco,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.05952380952380952,17,16
+7,7_dados_logs_sistemas_banco,"BAPTISTA, Cláudio de Souza.",0.03571428571428571,17,17
+7,7_dados_logs_sistemas_banco,"BRITO, Andrey Elísio Monteiro.",0.03571428571428571,17,12
+7,7_dados_logs_sistemas_banco,"CAMPELO, Claudio Elízio Calazans.",0.03571428571428571,17,22
+7,7_dados_logs_sistemas_banco,"FARIAS, Adalberto Cajueiro de.",0.03571428571428571,17,4
+7,7_dados_logs_sistemas_banco,"MARINHO, Leandro Balby.",0.03571428571428571,17,7
+7,7_dados_logs_sistemas_banco,"MASSONI, Tiago Lima.",0.03571428571428571,17,30
+7,7_dados_logs_sistemas_banco,"MONTEIRO, João Arthur Brunet.",0.03571428571428571,17,15
+7,7_dados_logs_sistemas_banco,"MOURA, José Antão Beltrão.",0.03571428571428571,17,16
+7,7_dados_logs_sistemas_banco,"ALMEIDA, Hyggo Oliveira de.",0.011904761904761904,17,4
+7,7_dados_logs_sistemas_banco,"ALVES, Everton Leandro Galdino.",0.011904761904761904,17,9
+7,7_dados_logs_sistemas_banco,"ANDRADE, Nazareno Ferreira de.",0.011904761904761904,17,4
+7,7_dados_logs_sistemas_banco,"ANDRADE, Wilkerson de Lucena.",0.011904761904761904,17,9
+7,7_dados_logs_sistemas_banco,"ARAÚJO, Elaine Cristina de.",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"ARAÚJO, Eliane Cristina de.",0.011904761904761904,17,8
+7,7_dados_logs_sistemas_banco,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.011904761904761904,17,13
+7,7_dados_logs_sistemas_banco,"BARROS, Marcelo Alves de.",0.011904761904761904,17,7
+7,7_dados_logs_sistemas_banco,"BRASILEIRO, Francisco Vilar.",0.011904761904761904,17,7
+7,7_dados_logs_sistemas_banco,"BRUNET, João Arthur Monteiro.",0.011904761904761904,17,10
+7,7_dados_logs_sistemas_banco,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.011904761904761904,17,12
+7,7_dados_logs_sistemas_banco,"CAMPOS, Lívia Maria Sampaio.",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"FARIA, Roberto Medeiros de.",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"FECHINE, Joseana Macêdo.",0.011904761904761904,17,4
+7,7_dados_logs_sistemas_banco,"GARCIA, Franceline Procópio.",0.011904761904761904,17,2
+7,7_dados_logs_sistemas_banco,"GARCIA, Francilene Procópio.",0.011904761904761904,17,8
+7,7_dados_logs_sistemas_banco,"GHEYI, Rohit Gheyi.",0.011904761904761904,17,2
+7,7_dados_logs_sistemas_banco,"GHEYI, Rohit.",0.011904761904761904,17,10
+7,7_dados_logs_sistemas_banco,"GOMES, Herman Martins.",0.011904761904761904,17,23
+7,7_dados_logs_sistemas_banco,"GOMES, Reinaldo Cézar de Morais.",0.011904761904761904,17,5
+7,7_dados_logs_sistemas_banco,"GORGÔNIO, Kyller Costa.",0.011904761904761904,17,2
+7,7_dados_logs_sistemas_banco,"GUERRERO, Dalton Dario Serey.",0.011904761904761904,17,2
+7,7_dados_logs_sistemas_banco,"LIRA, Melina Mongiovi Brito.",0.011904761904761904,17,4
+7,7_dados_logs_sistemas_banco,"MELCHER, Elmar Uwe Kurt.",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"MONGIOVI, Melina.",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"MORAES, Fábio Jorge Almeida.",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"Marinho, Leandro Balby",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"NICOLLETTI, Pedro Sergio.",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"OLIVEIRA, Maxwell Guimarães de.",0.011904761904761904,17,5
+7,7_dados_logs_sistemas_banco,"PEREIRA, Eanes Torres.",0.011904761904761904,17,7
+7,7_dados_logs_sistemas_banco,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.011904761904761904,17,2
+7,7_dados_logs_sistemas_banco,"PEREIRA, Thiago Emmanuel.",0.011904761904761904,17,2
+7,7_dados_logs_sistemas_banco,"PROCÓPIO, Francilene García.",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"RAMALHO, Franklin de Souza.",0.011904761904761904,17,11
+7,7_dados_logs_sistemas_banco,"RÊGO, Matheus Gaudencio do.",0.011904761904761904,17,6
+7,7_dados_logs_sistemas_banco,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.011904761904761904,17,1
+7,7_dados_logs_sistemas_banco,"SILVA, Emmanuel Pereira da Cunha.",0.011904761904761904,17,1
+8,8_dados_meio_aplicativos_anlise,"BAPTISTA, Cláudio de Souza.",0.13414634146341464,16,17
+8,8_dados_meio_aplicativos_anlise,"BARROS, Marcelo Alves de.",0.036585365853658534,16,7
+8,8_dados_meio_aplicativos_anlise,"CAMPELO, Claudio Elízio Calazans.",0.036585365853658534,16,22
+8,8_dados_meio_aplicativos_anlise,"FECHINE, Joseana Macêdo.",0.036585365853658534,16,4
+8,8_dados_meio_aplicativos_anlise,"GARCIA, Franceline Procópio.",0.036585365853658534,16,2
+8,8_dados_meio_aplicativos_anlise,"GOMES, Herman Martins.",0.036585365853658534,16,23
+8,8_dados_meio_aplicativos_anlise,"LIRA, Melina Mongiovi Brito.",0.036585365853658534,16,4
+8,8_dados_meio_aplicativos_anlise,"MORAIS, Fábio Jorge Almeida.",0.036585365853658534,16,19
+8,8_dados_meio_aplicativos_anlise,"MOURA, José Antão Beltrão.",0.036585365853658534,16,16
+8,8_dados_meio_aplicativos_anlise,"PIRES, Carlos Eduardo Santos.",0.036585365853658534,16,9
+8,8_dados_meio_aplicativos_anlise,"SABINO, Melina Mongiovi Cunha Lima.",0.036585365853658534,16,5
+8,8_dados_meio_aplicativos_anlise,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.036585365853658534,16,16
+8,8_dados_meio_aplicativos_anlise,"ALMEIDA, Hyggo Oliveira de.",0.012195121951219513,16,4
+8,8_dados_meio_aplicativos_anlise,"ALVES, Everton Leandro Galdino.",0.012195121951219513,16,9
+8,8_dados_meio_aplicativos_anlise,"ANDRADE, Nazareno Ferreira de.",0.012195121951219513,16,4
+8,8_dados_meio_aplicativos_anlise,"ANDRADE, Wilkerson de Lucena.",0.012195121951219513,16,9
+8,8_dados_meio_aplicativos_anlise,"ARAÚJO, Elaine Cristina de.",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"ARAÚJO, Eliane Cristina de.",0.012195121951219513,16,8
+8,8_dados_meio_aplicativos_anlise,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.012195121951219513,16,13
+8,8_dados_meio_aplicativos_anlise,"BRASILEIRO, Francisco Vilar.",0.012195121951219513,16,7
+8,8_dados_meio_aplicativos_anlise,"BRITO, Andrey Elísio Monteiro.",0.012195121951219513,16,12
+8,8_dados_meio_aplicativos_anlise,"BRUNET, João Arthur Monteiro.",0.012195121951219513,16,10
+8,8_dados_meio_aplicativos_anlise,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.012195121951219513,16,12
+8,8_dados_meio_aplicativos_anlise,"CAMPOS, Lívia Maria Sampaio.",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"FARIA, Roberto Medeiros de.",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"FARIAS, Adalberto Cajueiro de.",0.012195121951219513,16,4
+8,8_dados_meio_aplicativos_anlise,"GARCIA, Francilene Procópio.",0.012195121951219513,16,8
+8,8_dados_meio_aplicativos_anlise,"GHEYI, Rohit Gheyi.",0.012195121951219513,16,2
+8,8_dados_meio_aplicativos_anlise,"GHEYI, Rohit.",0.012195121951219513,16,10
+8,8_dados_meio_aplicativos_anlise,"GOMES, Reinaldo Cézar de Morais.",0.012195121951219513,16,5
+8,8_dados_meio_aplicativos_anlise,"GORGÔNIO, Kyller Costa.",0.012195121951219513,16,2
+8,8_dados_meio_aplicativos_anlise,"GUERRERO, Dalton Dario Serey.",0.012195121951219513,16,2
+8,8_dados_meio_aplicativos_anlise,"MARINHO, Leandro Balby.",0.012195121951219513,16,7
+8,8_dados_meio_aplicativos_anlise,"MASSONI, Tiago Lima.",0.012195121951219513,16,30
+8,8_dados_meio_aplicativos_anlise,"MELCHER, Elmar Uwe Kurt.",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"MONGIOVI, Melina.",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"MONTEIRO, João Arthur Brunet.",0.012195121951219513,16,15
+8,8_dados_meio_aplicativos_anlise,"MORAES, Fábio Jorge Almeida.",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"Marinho, Leandro Balby",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"NICOLLETTI, Pedro Sergio.",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"OLIVEIRA, Maxwell Guimarães de.",0.012195121951219513,16,5
+8,8_dados_meio_aplicativos_anlise,"PEREIRA, Eanes Torres.",0.012195121951219513,16,7
+8,8_dados_meio_aplicativos_anlise,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.012195121951219513,16,2
+8,8_dados_meio_aplicativos_anlise,"PEREIRA, Thiago Emmanuel.",0.012195121951219513,16,2
+8,8_dados_meio_aplicativos_anlise,"PROCÓPIO, Francilene García.",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"RAMALHO, Franklin de Souza.",0.012195121951219513,16,11
+8,8_dados_meio_aplicativos_anlise,"RÊGO, Matheus Gaudencio do.",0.012195121951219513,16,6
+8,8_dados_meio_aplicativos_anlise,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.012195121951219513,16,1
+8,8_dados_meio_aplicativos_anlise,"SILVA, Emmanuel Pereira da Cunha.",0.012195121951219513,16,1
+9,9_ensino_alunos_atividades_evaso,"BRASILEIRO, Francisco Vilar.",0.0875,15,7
+9,9_ensino_alunos_atividades_evaso,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.0625,15,13
+9,9_ensino_alunos_atividades_evaso,"ANDRADE, Wilkerson de Lucena.",0.0375,15,9
+9,9_ensino_alunos_atividades_evaso,"ARAÚJO, Eliane Cristina de.",0.0375,15,8
+9,9_ensino_alunos_atividades_evaso,"BAPTISTA, Cláudio de Souza.",0.0375,15,17
+9,9_ensino_alunos_atividades_evaso,"BARROS, Marcelo Alves de.",0.0375,15,7
+9,9_ensino_alunos_atividades_evaso,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.0375,15,12
+9,9_ensino_alunos_atividades_evaso,"FARIAS, Adalberto Cajueiro de.",0.0375,15,4
+9,9_ensino_alunos_atividades_evaso,"GARCIA, Francilene Procópio.",0.0375,15,8
+9,9_ensino_alunos_atividades_evaso,"MASSONI, Tiago Lima.",0.0375,15,30
+9,9_ensino_alunos_atividades_evaso,"MOURA, José Antão Beltrão.",0.0375,15,16
+9,9_ensino_alunos_atividades_evaso,"PIRES, Carlos Eduardo Santos.",0.0375,15,9
+9,9_ensino_alunos_atividades_evaso,"ALMEIDA, Hyggo Oliveira de.",0.0125,15,4
+9,9_ensino_alunos_atividades_evaso,"ALVES, Everton Leandro Galdino.",0.0125,15,9
+9,9_ensino_alunos_atividades_evaso,"ANDRADE, Nazareno Ferreira de.",0.0125,15,4
+9,9_ensino_alunos_atividades_evaso,"ARAÚJO, Elaine Cristina de.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"BRITO, Andrey Elísio Monteiro.",0.0125,15,12
+9,9_ensino_alunos_atividades_evaso,"BRUNET, João Arthur Monteiro.",0.0125,15,10
+9,9_ensino_alunos_atividades_evaso,"CAMPELO, Claudio Elízio Calazans.",0.0125,15,22
+9,9_ensino_alunos_atividades_evaso,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"CAMPOS, Lívia Maria Sampaio.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"FARIA, Roberto Medeiros de.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"FECHINE, Joseana Macêdo.",0.0125,15,4
+9,9_ensino_alunos_atividades_evaso,"GARCIA, Franceline Procópio.",0.0125,15,2
+9,9_ensino_alunos_atividades_evaso,"GHEYI, Rohit Gheyi.",0.0125,15,2
+9,9_ensino_alunos_atividades_evaso,"GHEYI, Rohit.",0.0125,15,10
+9,9_ensino_alunos_atividades_evaso,"GOMES, Herman Martins.",0.0125,15,23
+9,9_ensino_alunos_atividades_evaso,"GOMES, Reinaldo Cézar de Morais.",0.0125,15,5
+9,9_ensino_alunos_atividades_evaso,"GORGÔNIO, Kyller Costa.",0.0125,15,2
+9,9_ensino_alunos_atividades_evaso,"GUERRERO, Dalton Dario Serey.",0.0125,15,2
+9,9_ensino_alunos_atividades_evaso,"LIRA, Melina Mongiovi Brito.",0.0125,15,4
+9,9_ensino_alunos_atividades_evaso,"MARINHO, Leandro Balby.",0.0125,15,7
+9,9_ensino_alunos_atividades_evaso,"MELCHER, Elmar Uwe Kurt.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"MONGIOVI, Melina.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"MONTEIRO, João Arthur Brunet.",0.0125,15,15
+9,9_ensino_alunos_atividades_evaso,"MORAES, Fábio Jorge Almeida.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"MORAIS, Fábio Jorge Almeida.",0.0125,15,19
+9,9_ensino_alunos_atividades_evaso,"Marinho, Leandro Balby",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"NICOLLETTI, Pedro Sergio.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"OLIVEIRA, Maxwell Guimarães de.",0.0125,15,5
+9,9_ensino_alunos_atividades_evaso,"PEREIRA, Eanes Torres.",0.0125,15,7
+9,9_ensino_alunos_atividades_evaso,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.0125,15,2
+9,9_ensino_alunos_atividades_evaso,"PEREIRA, Thiago Emmanuel.",0.0125,15,2
+9,9_ensino_alunos_atividades_evaso,"PROCÓPIO, Francilene García.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"RAMALHO, Franklin de Souza.",0.0125,15,11
+9,9_ensino_alunos_atividades_evaso,"RÊGO, Matheus Gaudencio do.",0.0125,15,6
+9,9_ensino_alunos_atividades_evaso,"SABINO, Melina Mongiovi Cunha Lima.",0.0125,15,5
+9,9_ensino_alunos_atividades_evaso,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"SILVA, Emmanuel Pereira da Cunha.",0.0125,15,1
+9,9_ensino_alunos_atividades_evaso,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.0125,15,16
+10,10_oratio_projeto_solid_clean,"GHEYI, Rohit.",0.0875,15,10
+10,10_oratio_projeto_solid_clean,"GOMES, Herman Martins.",0.0875,15,23
+10,10_oratio_projeto_solid_clean,"SILVA, Thiago Emmanuel Pereira da Cunha.",0.0875,15,16
+10,10_oratio_projeto_solid_clean,"ARAÚJO, Eliane Cristina de.",0.0375,15,8
+10,10_oratio_projeto_solid_clean,"BRASILEIRO, Francisco Vilar.",0.0375,15,7
+10,10_oratio_projeto_solid_clean,"MASSONI, Tiago Lima.",0.0375,15,30
+10,10_oratio_projeto_solid_clean,"MOURA, José Antão Beltrão.",0.0375,15,16
+10,10_oratio_projeto_solid_clean,"OLIVEIRA, Maxwell Guimarães de.",0.0375,15,5
+10,10_oratio_projeto_solid_clean,"RAMALHO, Franklin de Souza.",0.0375,15,11
+10,10_oratio_projeto_solid_clean,"ALMEIDA, Hyggo Oliveira de.",0.0125,15,4
+10,10_oratio_projeto_solid_clean,"ALVES, Everton Leandro Galdino.",0.0125,15,9
+10,10_oratio_projeto_solid_clean,"ANDRADE, Nazareno Ferreira de.",0.0125,15,4
+10,10_oratio_projeto_solid_clean,"ANDRADE, Wilkerson de Lucena.",0.0125,15,9
+10,10_oratio_projeto_solid_clean,"ARAÚJO, Elaine Cristina de.",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"ARAÚJO, Joseana Macêdo Fechine Régis de.",0.0125,15,13
+10,10_oratio_projeto_solid_clean,"BAPTISTA, Cláudio de Souza.",0.0125,15,17
+10,10_oratio_projeto_solid_clean,"BARROS, Marcelo Alves de.",0.0125,15,7
+10,10_oratio_projeto_solid_clean,"BRITO, Andrey Elísio Monteiro.",0.0125,15,12
+10,10_oratio_projeto_solid_clean,"BRUNET, João Arthur Monteiro.",0.0125,15,10
+10,10_oratio_projeto_solid_clean,"CAMPELO, Claudio Elízio Calazans.",0.0125,15,22
+10,10_oratio_projeto_solid_clean,"CAMPOS, Lívia Maria Rodrigues Sampaio",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"CAMPOS, Lívia Maria Rodrigues Sampaio.",0.0125,15,12
+10,10_oratio_projeto_solid_clean,"CAMPOS, Lívia Maria Sampaio.",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"FARIA, Roberto Medeiros de.",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"FARIAS, Adalberto Cajueiro de.",0.0125,15,4
+10,10_oratio_projeto_solid_clean,"FECHINE, Joseana Macêdo.",0.0125,15,4
+10,10_oratio_projeto_solid_clean,"GARCIA, Franceline Procópio.",0.0125,15,2
+10,10_oratio_projeto_solid_clean,"GARCIA, Francilene Procópio.",0.0125,15,8
+10,10_oratio_projeto_solid_clean,"GHEYI, Rohit Gheyi.",0.0125,15,2
+10,10_oratio_projeto_solid_clean,"GOMES, Reinaldo Cézar de Morais.",0.0125,15,5
+10,10_oratio_projeto_solid_clean,"GORGÔNIO, Kyller Costa.",0.0125,15,2
+10,10_oratio_projeto_solid_clean,"GUERRERO, Dalton Dario Serey.",0.0125,15,2
+10,10_oratio_projeto_solid_clean,"LIRA, Melina Mongiovi Brito.",0.0125,15,4
+10,10_oratio_projeto_solid_clean,"MARINHO, Leandro Balby.",0.0125,15,7
+10,10_oratio_projeto_solid_clean,"MELCHER, Elmar Uwe Kurt.",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"MONGIOVI, Melina.",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"MONTEIRO, João Arthur Brunet.",0.0125,15,15
+10,10_oratio_projeto_solid_clean,"MORAES, Fábio Jorge Almeida.",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"MORAIS, Fábio Jorge Almeida.",0.0125,15,19
+10,10_oratio_projeto_solid_clean,"Marinho, Leandro Balby",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"NICOLLETTI, Pedro Sergio.",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"PEREIRA, Eanes Torres.",0.0125,15,7
+10,10_oratio_projeto_solid_clean,"PEREIRA, Thiago Emmanuel da Cunha Silva.",0.0125,15,2
+10,10_oratio_projeto_solid_clean,"PEREIRA, Thiago Emmanuel.",0.0125,15,2
+10,10_oratio_projeto_solid_clean,"PIRES, Carlos Eduardo Santos.",0.0125,15,9
+10,10_oratio_projeto_solid_clean,"PROCÓPIO, Francilene García.",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"RÊGO, Matheus Gaudencio do.",0.0125,15,6
+10,10_oratio_projeto_solid_clean,"SABINO, Melina Mongiovi Cunha Lima.",0.0125,15,5
+10,10_oratio_projeto_solid_clean,"SAMPAIO, Lívia Maria Rodrigues Sampaio.",0.0125,15,1
+10,10_oratio_projeto_solid_clean,"SILVA, Emmanuel Pereira da Cunha.",0.0125,15,1

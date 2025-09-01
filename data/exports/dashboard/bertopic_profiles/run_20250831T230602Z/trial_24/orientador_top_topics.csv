@@ -1,0 +1,102 @@
+orientador,topic,topic_label,P_topic_given_orientador,lift_log,n_docs_orientador_total,n_docs_orientador_assigned,coverage_orientador,n_docs_topic,n_total,coverage
+"ALMEIDA, Hyggo Oliveira de.",5,5_sade_animais_pandemia_dados,0.2631578947368421,0.947381318944186,5,4,0.8,37,5,0.8
+"ALMEIDA, Hyggo Oliveira de.",6,6_software_empresas_objetivo_vulnerabilidades,0.15789473684210525,0.5199373041172464,5,4,0.8,34,5,0.8
+"ALMEIDA, Hyggo Oliveira de.",3,3_software_projetos_cdigo_bugs,0.15789473684210525,0.31139255222418927,5,4,0.8,42,5,0.8
+"ALVES, Everton Leandro Galdino.",6,6_software_empresas_objetivo_vulnerabilidades,0.2413793103448276,0.9443783136844166,13,9,0.6923076923076923,34,13,0.6923076923076923
+"ALVES, Everton Leandro Galdino.",3,3_software_projetos_cdigo_bugs,0.2413793103448276,0.7358335617913594,13,9,0.6923076923076923,42,13,0.6923076923076923
+"ALVES, Everton Leandro Galdino.",5,5_sade_animais_pandemia_dados,0.10344827586206896,0.013698844358161927,13,9,0.6923076923076923,37,13,0.6923076923076923
+"ANDRADE, Nazareno Ferreira de.",4,4_dados_digital_sobre_privacidade,0.2631578947368421,0.895421580013475,5,4,0.8,39,5,0.8
+"ANDRADE, Nazareno Ferreira de.",5,5_sade_animais_pandemia_dados,0.15789473684210525,0.4365556951781954,5,4,0.8,37,5,0.8
+"ANDRADE, Nazareno Ferreira de.",0,0_modelos_dados_linguagem_imagens,0.15789473684210525,0.10008345855698263,5,4,0.8,52,5,0.8
+"ANDRADE, Wilkerson de Lucena.",6,6_software_empresas_objetivo_vulnerabilidades,0.2413793103448276,0.9443783136844166,11,9,0.8181818181818182,34,11,0.8181818181818182
+"ANDRADE, Wilkerson de Lucena.",5,5_sade_animais_pandemia_dados,0.1724137931034483,0.5245244681241527,11,9,0.8181818181818182,37,11,0.8181818181818182
+"ANDRADE, Wilkerson de Lucena.",2,2_alunos_computao_programao_sistema,0.1724137931034483,0.3533762119283232,11,9,0.8181818181818182,44,11,0.8181818181818182
+"ARAÚJO, Eliane Cristina de.",2,2_alunos_computao_programao_sistema,0.25925925925925924,0.7613074125316809,11,8,0.7272727272727273,44,11,0.7272727272727273
+"ARAÚJO, Eliane Cristina de.",6,6_software_empresas_objetivo_vulnerabilidades,0.18518518518518517,0.6793650410453486,11,8,0.7272727272727273,34,11,0.7272727272727273
+"ARAÚJO, Eliane Cristina de.",9,9_ensino_alunos_atividades_evaso,0.1111111111111111,0.968658717391471,11,8,0.7272727272727273,15,11,0.7272727272727273
+"ARAÚJO, Joseana Macêdo Fechine Régis de.",5,5_sade_animais_pandemia_dados,0.1891891891891892,0.6173746220876152,14,13,0.9285714285714286,37,14,0.9285714285714286
+"ARAÚJO, Joseana Macêdo Fechine Régis de.",0,0_modelos_dados_linguagem_imagens,0.1891891891891892,0.28090238546640234,14,13,0.9285714285714286,52,14,0.9285714285714286
+"ARAÚJO, Joseana Macêdo Fechine Régis de.",9,9_ensino_alunos_atividades_evaso,0.13513513513513514,1.1644032945175664,14,13,0.9285714285714286,15,14,0.9285714285714286
+"BAPTISTA, Cláudio de Souza.",8,8_dados_meio_aplicativos_anlise,0.24444444444444444,1.6945957207744073,19,17,0.8947368421052632,16,19,0.8947368421052632
+"BAPTISTA, Cláudio de Souza.",1,1_nuvem_recursos_dados_sistema,0.15555555555555556,0.10438917026819447,19,17,0.8947368421052632,51,19,0.8947368421052632
+"BAPTISTA, Cláudio de Souza.",4,4_dados_digital_sobre_privacidade,0.1111111111111111,0.03319806940959562,19,17,0.8947368421052632,39,19,0.8947368421052632
+"BARROS, Marcelo Alves de.",5,5_sade_animais_pandemia_dados,0.2,0.6729444732424258,8,7,0.875,37,8,0.875
+"BARROS, Marcelo Alves de.",2,2_alunos_computao_programao_sistema,0.2,0.5017962170465965,8,7,0.875,44,8,0.875
+"BARROS, Marcelo Alves de.",9,9_ensino_alunos_atividades_evaso,0.12,1.0456197585275995,8,7,0.875,15,8,0.875
+"BRASILEIRO, Francisco Vilar.",9,9_ensino_alunos_atividades_evaso,0.28,1.8929176189148031,8,7,0.875,15,8,0.875
+"BRASILEIRO, Francisco Vilar.",10,10_oratio_projeto_solid_clean,0.12,1.0456197585275995,8,7,0.875,15,8,0.875
+"BRASILEIRO, Francisco Vilar.",6,6_software_empresas_objetivo_vulnerabilidades,0.12,0.2455004584154862,8,7,0.875,34,8,0.875
+"BRITO, Andrey Elísio Monteiro.",1,1_nuvem_recursos_dados_sistema,0.3142857142857143,0.8076887222921577,12,12,1.0,51,12,1.0
+"BRITO, Andrey Elísio Monteiro.",2,2_alunos_computao_programao_sistema,0.14285714285714285,0.16532398042538352,12,12,1.0,44,12,1.0
+"BRITO, Andrey Elísio Monteiro.",7,7_dados_logs_sistemas_banco,0.08571428571428572,0.5877866649021191,12,12,1.0,17,12,1.0
+"BRUNET, João Arthur Monteiro.",6,6_software_empresas_objetivo_vulnerabilidades,0.16129032258064516,0.5412147025645314,10,10,1.0,34,10,1.0
+"BRUNET, João Arthur Monteiro.",5,5_sade_animais_pandemia_dados,0.16129032258064516,0.4578330936254803,10,10,1.0,37,10,1.0
+"BRUNET, João Arthur Monteiro.",3,3_software_projetos_cdigo_bugs,0.16129032258064516,0.33266995067147426,10,10,1.0,42,10,1.0
+"CAMPELO, Claudio Elízio Calazans.",0,0_modelos_dados_linguagem_imagens,0.2727272727272727,0.6466271649250523,27,22,0.8148148148148148,52,27,0.8148148148148148
+"CAMPELO, Claudio Elízio Calazans.",4,4_dados_digital_sobre_privacidade,0.16363636363636364,0.4203140388495636,27,22,0.8148148148148148,39,27,0.8148148148148148
+"CAMPELO, Claudio Elízio Calazans.",2,2_alunos_computao_programao_sistema,0.12727272727272726,0.04981109330353909,27,22,0.8148148148148148,44,27,0.8148148148148148
+"CAMPOS, Lívia Maria Rodrigues Sampaio.",2,2_alunos_computao_programao_sistema,0.3142857142857143,0.9537813407896537,12,12,1.0,44,12,1.0
+"CAMPOS, Lívia Maria Rodrigues Sampaio.",4,4_dados_digital_sobre_privacidade,0.14285714285714285,0.28451249769050185,12,12,1.0,39,12,1.0
+"CAMPOS, Lívia Maria Rodrigues Sampaio.",9,9_ensino_alunos_atividades_evaso,0.08571428571428572,0.7091475219063864,12,12,1.0,15,12,1.0
+"FARIAS, Adalberto Cajueiro de.",9,9_ensino_alunos_atividades_evaso,0.15789473684210525,1.3200566042293598,7,4,0.5714285714285714,15,7,0.5714285714285714
+"FARIAS, Adalberto Cajueiro de.",7,7_dados_logs_sistemas_banco,0.15789473684210525,1.1986957472250923,7,4,0.5714285714285714,17,7,0.5714285714285714
+"FARIAS, Adalberto Cajueiro de.",6,6_software_empresas_objetivo_vulnerabilidades,0.15789473684210525,0.5199373041172464,7,4,0.5714285714285714,34,7,0.5714285714285714
+"FECHINE, Joseana Macêdo.",8,8_dados_meio_aplicativos_anlise,0.15789473684210525,1.2575362472480256,5,4,0.8,16,5,0.8
+"FECHINE, Joseana Macêdo.",5,5_sade_animais_pandemia_dados,0.15789473684210525,0.4365556951781954,5,4,0.8,37,5,0.8
+"FECHINE, Joseana Macêdo.",4,4_dados_digital_sobre_privacidade,0.15789473684210525,0.3845959562474843,5,4,0.8,39,5,0.8
+"GARCIA, Francilene Procópio.",6,6_software_empresas_objetivo_vulnerabilidades,0.18518518518518517,0.6793650410453486,8,8,1.0,34,8,1.0
+"GARCIA, Francilene Procópio.",5,5_sade_animais_pandemia_dados,0.18518518518518517,0.5959834321062975,8,8,1.0,37,8,1.0
+"GARCIA, Francilene Procópio.",2,2_alunos_computao_programao_sistema,0.18518518518518517,0.4248351759104681,8,8,1.0,44,8,1.0
+"GHEYI, Rohit.",10,10_oratio_projeto_solid_clean,0.22580645161290322,1.6778062392978574,10,10,1.0,15,10,1.0
+"GHEYI, Rohit.",3,3_software_projetos_cdigo_bugs,0.22580645161290322,0.6691421872926872,10,10,1.0,42,10,1.0
+"GHEYI, Rohit.",0,0_modelos_dados_linguagem_imagens,0.22580645161290322,0.45783309362548047,10,10,1.0,52,10,1.0
+"GOMES, Herman Martins.",0,0_modelos_dados_linguagem_imagens,0.2982456140350877,0.7360722252769791,27,23,0.8518518518518519,52,27,0.8518518518518519
+"GOMES, Herman Martins.",5,5_sade_animais_pandemia_dados,0.19298245614035087,0.6372263906403466,27,23,0.8518518518518519,37,27,0.8518518518518519
+"GOMES, Herman Martins.",10,10_oratio_projeto_solid_clean,0.12280701754385964,1.0687421759484537,27,23,0.8518518518518519,15,27,0.8518518518518519
+"GOMES, Reinaldo Cézar de Morais.",1,1_nuvem_recursos_dados_sistema,0.5238095238095238,1.3185143460581485,6,5,0.8333333333333334,51,6,0.8333333333333334
+"GOMES, Reinaldo Cézar de Morais.",9,9_ensino_alunos_atividades_evaso,0.047619047619047616,0.12136085700426753,6,5,0.8333333333333334,15,6,0.8333333333333334
+"GOMES, Reinaldo Cézar de Morais.",10,10_oratio_projeto_solid_clean,0.047619047619047616,0.12136085700426753,6,5,0.8333333333333334,15,6,0.8333333333333334
+"GUERRERO, Dalton Dario Serey.",5,5_sade_animais_pandemia_dados,0.3333333333333333,1.1837700970084166,4,2,0.5,37,4,0.5
+"GUERRERO, Dalton Dario Serey.",9,9_ensino_alunos_atividades_evaso,0.06666666666666667,0.45783309362548047,4,2,0.5,15,4,0.5
+"GUERRERO, Dalton Dario Serey.",10,10_oratio_projeto_solid_clean,0.06666666666666667,0.45783309362548047,4,2,0.5,15,4,0.5
+"LIRA, Melina Mongiovi Brito.",2,2_alunos_computao_programao_sistema,0.2631578947368421,0.7762330627483566,4,4,1.0,44,4,1.0
+"LIRA, Melina Mongiovi Brito.",8,8_dados_meio_aplicativos_anlise,0.15789473684210525,1.2575362472480256,4,4,1.0,16,4,1.0
+"LIRA, Melina Mongiovi Brito.",3,3_software_projetos_cdigo_bugs,0.15789473684210525,0.31139255222418927,4,4,1.0,42,4,1.0
+"MARINHO, Leandro Balby.",0,0_modelos_dados_linguagem_imagens,0.36,0.9242589015233319,9,7,0.7777777777777778,52,9,0.7777777777777778
+"MARINHO, Leandro Balby.",7,7_dados_logs_sistemas_banco,0.12,0.9242589015233319,9,7,0.7777777777777778,17,9,0.7777777777777778
+"MARINHO, Leandro Balby.",4,4_dados_digital_sobre_privacidade,0.12,0.11015911054572408,9,7,0.7777777777777778,39,9,0.7777777777777778
+"MASSONI, Tiago Lima.",6,6_software_empresas_objetivo_vulnerabilidades,0.2112676056338028,0.8111343186764718,34,30,0.8823529411764706,34,34,0.8823529411764706
+"MASSONI, Tiago Lima.",3,3_software_projetos_cdigo_bugs,0.2112676056338028,0.6025895667834148,34,30,0.8823529411764706,42,34,0.8823529411764706
+"MASSONI, Tiago Lima.",2,2_alunos_computao_programao_sistema,0.15492957746478872,0.2464495252377519,34,30,0.8823529411764706,44,34,0.8823529411764706
+"MONTEIRO, João Arthur Brunet.",6,6_software_empresas_objetivo_vulnerabilidades,0.17073170731707318,0.5981020769665829,16,15,0.9375,34,16,0.9375
+"MONTEIRO, João Arthur Brunet.",4,4_dados_digital_sobre_privacidade,0.17073170731707318,0.46276072909682076,16,15,0.9375,39,16,0.9375
+"MONTEIRO, João Arthur Brunet.",3,3_software_projetos_cdigo_bugs,0.17073170731707318,0.3895573250735257,16,15,0.9375,42,16,0.9375
+"MORAIS, Fábio Jorge Almeida.",1,1_nuvem_recursos_dados_sistema,0.2653061224489796,0.638270570334111,23,19,0.8260869565217391,51,23,0.8260869565217391
+"MORAIS, Fábio Jorge Almeida.",4,4_dados_digital_sobre_privacidade,0.22448979591836735,0.7364976214335591,23,19,0.8260869565217391,39,23,0.8260869565217391
+"MORAIS, Fábio Jorge Almeida.",0,0_modelos_dados_linguagem_imagens,0.1836734693877551,0.25131442828090617,23,19,0.8260869565217391,52,23,0.8260869565217391
+"MOURA, José Antão Beltrão.",6,6_software_empresas_objetivo_vulnerabilidades,0.16279069767441862,0.5504740279773283,17,16,0.9411764705882353,34,17,0.9411764705882353
+"MOURA, José Antão Beltrão.",3,3_software_projetos_cdigo_bugs,0.16279069767441862,0.3419292760842711,17,16,0.9411764705882353,42,17,0.9411764705882353
+"MOURA, José Antão Beltrão.",5,5_sade_animais_pandemia_dados,0.11627906976744186,0.13062018241706422,17,16,0.9411764705882353,37,17,0.9411764705882353
+"OLIVEIRA, Maxwell Guimarães de.",4,4_dados_digital_sobre_privacidade,0.23809523809523808,0.7953381214564925,5,5,1.0,39,5,1.0
+"OLIVEIRA, Maxwell Guimarães de.",10,10_oratio_projeto_solid_clean,0.14285714285714285,1.2199731456723772,5,5,1.0,15,5,1.0
+"OLIVEIRA, Maxwell Guimarães de.",3,3_software_projetos_cdigo_bugs,0.14285714285714285,0.21130909366720677,5,5,1.0,42,5,1.0
+"PEREIRA, Eanes Torres.",4,4_dados_digital_sobre_privacidade,0.36,1.2087713992138338,10,7,0.7,39,10,0.7
+"PEREIRA, Eanes Torres.",3,3_software_projetos_cdigo_bugs,0.12,0.03695570652242912,10,7,0.7,42,10,0.7
+"PEREIRA, Thiago Emmanuel.",3,3_software_projetos_cdigo_bugs,0.2,0.5477813302884199,3,2,0.6666666666666666,42,3,0.6666666666666666
+"PEREIRA, Thiago Emmanuel.",1,1_nuvem_recursos_dados_sistema,0.2,0.35570359854910055,3,2,0.6666666666666666,51,3,0.6666666666666666
+"PEREIRA, Thiago Emmanuel.",9,9_ensino_alunos_atividades_evaso,0.06666666666666667,0.45783309362548047,3,2,0.6666666666666666,15,3,0.6666666666666666
+"PIRES, Carlos Eduardo Santos.",7,7_dados_logs_sistemas_banco,0.2413793103448276,1.6231367567922623,10,9,0.9,17,10,0.9
+"PIRES, Carlos Eduardo Santos.",4,4_dados_digital_sobre_privacidade,0.1724137931034483,0.4725647291934415,10,9,0.9,39,10,0.9
+"PIRES, Carlos Eduardo Santos.",9,9_ensino_alunos_atividades_evaso,0.10344827586206896,0.8971997534093261,10,9,0.9,15,10,0.9
+"RAMALHO, Franklin de Souza.",3,3_software_projetos_cdigo_bugs,0.5151515151515151,1.493925025312256,11,11,1.0,42,11,1.0
+"RAMALHO, Franklin de Souza.",0,0_modelos_dados_linguagem_imagens,0.15151515151515152,0.0588405000229336,11,11,1.0,52,11,1.0
+"RAMALHO, Franklin de Souza.",10,10_oratio_projeto_solid_clean,0.09090909090909091,0.76798802192932,11,11,1.0,15,11,1.0
+"RÊGO, Matheus Gaudencio do.",3,3_software_projetos_cdigo_bugs,0.391304347826087,1.21894960412959,7,6,0.8571428571428571,42,7,0.8571428571428571
+"RÊGO, Matheus Gaudencio do.",2,2_alunos_computao_programao_sistema,0.21739130434782608,0.5851778259856475,7,6,0.8571428571428571,44,7,0.8571428571428571
+"RÊGO, Matheus Gaudencio do.",9,9_ensino_alunos_atividades_evaso,0.043478260869565216,0.030389078798540685,7,6,0.8571428571428571,15,7,0.8571428571428571
+"SABINO, Melina Mongiovi Cunha Lima.",7,7_dados_logs_sistemas_banco,0.23809523809523808,1.6094379124341003,6,5,0.8333333333333334,17,6,0.8333333333333334
+"SABINO, Melina Mongiovi Cunha Lima.",8,8_dados_meio_aplicativos_anlise,0.14285714285714285,1.157452788691043,6,5,0.8333333333333334,16,6,0.8333333333333334
+"SABINO, Melina Mongiovi Cunha Lima.",6,6_software_empresas_objetivo_vulnerabilidades,0.14285714285714285,0.4198538455602639,6,5,0.8333333333333334,34,6,0.8333333333333334
+"SILVA, Thiago Emmanuel Pereira da Cunha.",1,1_nuvem_recursos_dados_sistema,0.4418604651162791,1.148380374456079,20,16,0.8,51,20,0.8
+"SILVA, Thiago Emmanuel Pereira da Cunha.",10,10_oratio_projeto_solid_clean,0.16279069767441862,1.3505933280894413,20,16,0.8,15,20,0.8
+"SILVA, Thiago Emmanuel Pereira da Cunha.",7,7_dados_logs_sistemas_banco,0.11627906976744186,0.8927602344639609,20,16,0.8,17,20,0.8
