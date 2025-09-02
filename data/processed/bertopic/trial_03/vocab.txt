@@ -16,7 +16,6 @@ abertos
 abertura
 abnt
 abolindo
-aborda
 abordada
 abordadas
 abordado
@@ -55,7 +54,6 @@ academicblock
 acadmica
 acadmicamente
 acadmicas
-acadmico
 acadmicos
 acampamentos
 acarreta
@@ -265,7 +263,6 @@ aio
 ajuda
 ajudam
 ajudando
-ajudar
 ajude
 ajudem
 ajudlas
@@ -297,7 +294,6 @@ algoritmos
 algortmico
 algum
 alguma
-algumas
 alia
 aliada
 aliado
@@ -380,7 +376,6 @@ analisada
 analisadas
 analisado
 analisadores
-analisados
 analisam
 analisamos
 analisando
@@ -417,7 +412,6 @@ anonimizados
 anonimizando
 anonimizao
 anormalidade
-anos
 anotados
 anotaes
 anotando
@@ -457,7 +451,6 @@ apis
 aplicabilidade
 aplicada
 aplicadalacina
-aplicadas
 aplicado
 aplicados
 aplicaes
@@ -490,7 +483,6 @@ aprendem
 aprender
 aprenderem
 aprendidos
-aprendizagem
 aprendizes
 apresenta
 apresentada
@@ -498,7 +490,6 @@ apresentadas
 apresentado
 apresentados
 apresentaes
-apresentam
 apresentamos
 apresentando
 apresentao
@@ -717,11 +708,9 @@ aumentada
 aumentados
 aumentam
 aumentando
-aumentar
 aumentaram
 aumentarem
 aumentaria
-aumento
 aumentou
 ausentes
 ausncia
@@ -776,7 +765,6 @@ auxilie
 auxiliem
 auxililos
 auxilio
-auxlio
 avalia
 avaliada
 avaliadas
@@ -835,7 +823,6 @@ barreiras
 base
 baseada
 baseadas
-baseado
 baseados
 baseandose
 baseball
@@ -845,7 +832,6 @@ baseline
 bases
 basketball
 basquete
-bastante
 bastidores
 bayes
 bearer
@@ -998,7 +984,6 @@ capacitados
 capacitandoas
 capacitao
 capacitar
-capaz
 capazes
 capibaribe
 capital
@@ -1875,8 +1860,6 @@ curriculares
 cursadas
 cursam
 cursar
-curso
-cursos
 curta
 curtidas
 curto
@@ -2024,7 +2007,6 @@ densa
 densidade
 denso
 densos
-dentre
 dentro
 deparamse
 depararem
@@ -2052,7 +2034,6 @@ desafiadora
 desafiadoras
 desafiadores
 desafiaforal
-desafio
 desafios
 desagrega
 desagregador
@@ -2104,7 +2085,6 @@ descrito
 descritos
 descubram
 descurtidas
-desde
 deseja
 desejadas
 desejado
@@ -2189,7 +2169,6 @@ destacouse
 destaque
 destaques
 destas
-destes
 destilao
 destina
 destinada
@@ -2229,7 +2208,6 @@ determinar
 determinsticos
 detm
 deu
-deve
 development
 devem
 devemos
@@ -2386,6 +2364,7 @@ disponibilizam
 disponibilizao
 disponibilizar
 disponibilizem
+disponveis
 disponvel
 disposio
 dispositivo
@@ -2424,7 +2403,6 @@ diversificadas
 diversificados
 diversificao
 diverso
-diversos
 dividida
 divididas
 dividido
@@ -2733,7 +2711,6 @@ entretenimento
 entrevista
 entrevistados
 entrevistar
-entrevistas
 entusiasmo
 enunciados
 envelhece
@@ -2917,7 +2894,6 @@ estmulo
 estoque
 estrategia
 estratgia
-estratgias
 estratgicas
 estratgicos
 estrela
@@ -3160,7 +3136,6 @@ facilitado
 facilitador
 facilitadora
 facilitadoras
-facilitando
 facilitao
 facilite
 facilitem
@@ -3260,7 +3235,6 @@ filtrar
 filtrlas
 filtros
 finais
-final
 finalidade
 finalidades
 finalizado
@@ -3422,7 +3396,6 @@ funciona
 funcionais
 funcional
 funcionalidade
-funcionalidades
 funcionam
 funcionamento
 funcionar
@@ -3567,7 +3540,6 @@ gol
 golang
 golpes
 gols
-google
 gosta
 gostado
 gostar
@@ -3806,7 +3778,6 @@ implicaes
 implicar
 implicou
 importa
-importante
 importantes
 impossibilidade
 impossibilita
@@ -3851,7 +3822,6 @@ incertezas
 incidentes
 incidncia
 incio
-incluem
 inclui
 incluir
 incluiu
@@ -3862,7 +3832,6 @@ inclusivas
 inclusive
 inclusivo
 inclusivos
-incluso
 incompatvel
 incompletas
 incomum
@@ -3954,7 +3923,6 @@ informada
 informadas
 informais
 informando
-informao
 informar
 information
 informativos
@@ -4088,7 +4056,6 @@ interdisciplinar
 interessadas
 interessados
 interessante
-interesse
 interessem
 interesses
 interest
@@ -4480,7 +4447,6 @@ magnitude
 magntica
 maio
 maiores
-maioria
 maisculas
 majoritariamente
 majoritrias
@@ -4513,7 +4479,6 @@ mantidos
 mantis
 mantm
 manuais
-manual
 manualmente
 manuscritos
 manutenibilidade
@@ -4591,7 +4556,6 @@ meis
 mej
 mel
 melfrequency
-melhor
 melhora
 melhoradas
 melhorado
@@ -4784,7 +4748,6 @@ mostrado
 mostram
 mostrando
 mostrar
-mostraram
 mostraramse
 mostrem
 mostrou
@@ -4953,7 +4916,6 @@ nicas
 nicbr
 nico
 nisso
-nmero
 nmeros
 nodegis
 nodegis3d
@@ -5003,11 +4965,9 @@ notrio
 notvel
 nova
 novamente
-novas
 novato
 nove
 novembro
-novo
 novos
 npm
 ns
@@ -5257,7 +5217,6 @@ pandemia
 pandmico
 panning
 panorama
-papel
 papis
 paraba
 parada
@@ -5332,7 +5291,6 @@ pautado
 pb
 pblica
 pblicas
-pblico
 pblicoalvo
 pblicos
 pc
@@ -5452,14 +5410,12 @@ pese
 pesos
 pesquisadores
 pesquisar
-pesquisas
 pessimismo
 pessoa
 pessoais
 pessoal
 pessoalmente
 pessoapb
-pessoas
 pet
 pets
 pginas
@@ -5486,7 +5442,6 @@ planilha
 planilhas
 plano
 planos
-plataformas
 platform
 platformopsys
 plausvel
@@ -5606,7 +5561,6 @@ postos
 posts
 poststudy
 potenciais
-potencial
 potencializada
 potencializador
 potica
@@ -5771,7 +5725,6 @@ prnfase
 pro
 probabilidade
 probidade
-problemtica
 problemtico
 problemticos
 procedimentos
@@ -5795,6 +5748,7 @@ procurando
 procurar
 product
 productcomponent
+produo
 produtividade
 produtivos
 produto
@@ -5945,7 +5899,6 @@ prprocessamento
 prreitora
 prrequisitos
 prs
-prticas
 prtico
 prticos
 prtreinadas
@@ -5999,6 +5952,7 @@ quadro
 quadros
 quais
 quaisquer
+qualidade
 qualificados
 qualificao
 qualificar
@@ -6038,7 +5992,6 @@ questionando
 questionnaire
 questionrio
 questionrios
-questo
 queue
 quo
 raas
@@ -6083,7 +6036,6 @@ reagir
 reais
 realidade
 realiza
-realizada
 realizadas
 realizado
 realizados
@@ -6158,7 +6110,6 @@ recurrent
 recursivo
 redash
 reddit
-rede
 redefinindo
 redes
 redigidos
@@ -6174,7 +6125,6 @@ reduzida
 reduzidas
 reduzido
 reduzindo
-reduzir
 reduziu
 reengenharia
 reenviar
@@ -6372,7 +6322,6 @@ respectivamente
 respectivos
 respeitados
 respeitando
-respeito
 responde
 respondentes
 responder
@@ -6385,7 +6334,6 @@ responsabilidades
 responsiva
 responsividade
 responsveis
-responsvel
 resposta
 respostas
 ressalta
@@ -6503,7 +6451,6 @@ roubo
 roubos
 rouge
 rpc
-rpida
 rpido
 rpidos
 rplica
@@ -6686,6 +6633,7 @@ servicos
 servidor
 servidores
 servio
+servios
 servir
 sesses
 sesso
@@ -6713,7 +6661,6 @@ significar
 significativa
 significativamente
 significativas
-significativo
 significativos
 sim
 similar
@@ -6792,7 +6739,6 @@ sobreviver
 sobrevivncia
 sociabilidade
 sociais
-social
 socializao
 socialmente
 sociedade
@@ -6937,7 +6883,6 @@ suporta
 suportado
 suportam
 suportar
-suporte
 suportem
 supostamente
 supra
@@ -6946,7 +6891,6 @@ suprilos
 suprir
 surdos
 surgem
-surgimento
 surgindo
 surgir
 surgiram
@@ -6978,14 +6922,12 @@ tabuleiro
 tag
 tagging
 tags
-tais
 talend
 talentos
 talvez
 tamanho
 tamanhos
 tantas
-tanto
 tantos
 taquigrficas
 tarefa
@@ -6998,6 +6940,7 @@ tcc
 tceac
 tcepb
 tcnica
+tcnicas
 tcnico
 tcnicos
 tdd
@@ -7039,7 +6982,6 @@ tende
 tendem
 tendncia
 tendncias
-tendo
 tenta
 tentados
 tentamos
@@ -7098,7 +7040,6 @@ tico
 tido
 tiering
 tiktok
-til
 tima
 time
 timers
@@ -7113,7 +7054,6 @@ tirar
 titular
 titulares
 tlos
-tm
 tnicos
 to
 tocante
@@ -7243,7 +7183,6 @@ tratlos
 traz
 trazem
 trazendo
-trazer
 trecho
 trechos
 treinada
@@ -7416,13 +7355,10 @@ validados
 validaes
 validamos
 validando
-validao
-validar
 validveis
 valiosa
 valiosas
 valiosos
-valor
 valores
 valoriza
 valorizam
@@ -7479,7 +7415,6 @@ verificaes
 verificamos
 verificando
 verificao
-verificar
 verification
 verificou
 veriicado
@@ -7497,7 +7432,6 @@ vetores
 vetoriais
 vetorizao
 vez
-vezes
 vgg16
 vi
 via
@@ -7544,9 +7478,8 @@ visitando
 visitantes
 visitar
 visitas
-viso
-vista
 vistas
+visto
 visuais
 visual
 visualizadas

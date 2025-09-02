@@ -19,7 +19,6 @@ abordada
 abordadas
 abordado
 abordados
-abordagem
 abordagens
 abordam
 abordando
@@ -83,7 +82,6 @@ acessados
 acessar
 acesslos
 acessos
-acessveis
 acessvel
 acev
 achados
@@ -138,7 +136,6 @@ ademais
 adentra
 adeptas
 adequa
-adequada
 adequadamente
 adequadas
 adequado
@@ -158,7 +155,6 @@ adicional
 adicionalmente
 adicionam
 adicionando
-adicionar
 adicionou
 adiel
 adies
@@ -288,7 +284,6 @@ alfa
 alfabetizao
 algoritmo
 algortmico
-algum
 alguma
 alia
 aliada
@@ -314,7 +309,6 @@ aloque
 aloud
 alpaca
 alpha
-alta
 altamente
 altas
 alterado
@@ -329,7 +323,6 @@ alternativa
 alternativas
 alternativos
 alterou
-alto
 altos
 alugar
 aluna
@@ -351,7 +344,6 @@ ameno
 americana
 amigvel
 amor
-amostra
 amostragem
 amostrais
 amostral
@@ -475,13 +467,13 @@ aprendem
 aprender
 aprenderem
 aprendidos
+aprendizagem
 aprendizes
 apresentada
 apresentadas
 apresentado
 apresentados
 apresentaes
-apresentam
 apresentamos
 apresentando
 apresentao
@@ -567,6 +559,7 @@ ascenso
 ascent
 asfaltadas
 aspecto
+aspectos
 aspectoschave
 assegurado
 assegurar
@@ -641,7 +634,6 @@ ativamente
 ativao
 ativas
 atividade
-atividades
 atividadesfases
 ativo
 ativos
@@ -754,6 +746,7 @@ auxilie
 auxiliem
 auxililos
 auxilio
+auxlio
 avalia
 avaliada
 avaliadas
@@ -800,6 +793,7 @@ balana
 balanceada
 balanceados
 bancas
+banco
 bancos
 bar
 barateamento
@@ -830,7 +824,6 @@ bemsucedido
 benchmark
 benchmarks
 benefcio
-benefcios
 beneficiando
 beneficiar
 beneficirio
@@ -911,7 +904,6 @@ bugs
 bugzilla
 burocracia
 burocrticas
-buscam
 buscamos
 buscando
 buscar
@@ -969,8 +961,6 @@ capacitados
 capacitandoas
 capacitao
 capacitar
-capaz
-capazes
 capibaribe
 capital
 captar
@@ -1237,7 +1227,6 @@ colecionadores
 colees
 colegas
 coleo
-coleta
 coletadas
 coletados
 coletando
@@ -1298,7 +1287,6 @@ comparamos
 comparando
 comparandoas
 comparandoo
-comparao
 comparar
 compararemos
 comparativa
@@ -1398,6 +1386,7 @@ computer
 computing
 comrcio
 comum
+comumente
 comunica
 comunicacao
 comunicados
@@ -1672,7 +1661,6 @@ controlador
 controlar
 controlling
 controvrsia
-contudo
 convencionais
 convencional
 conveniente
@@ -1839,7 +1827,6 @@ curriculares
 cursadas
 cursam
 cursar
-cursos
 curta
 curtidas
 curto
@@ -1851,7 +1838,6 @@ customer
 customizaes
 customizao
 customizar
-custos
 custosa
 custosas
 custoso
@@ -1872,7 +1858,6 @@ daqueles
 dar
 dashboard
 dashboards
-data
 database
 datacleaner
 datada
@@ -1896,7 +1881,6 @@ debruamos
 decibis
 decide
 decidir
-decises
 decisivo
 deciso
 decisrios
@@ -1965,6 +1949,7 @@ democrtico
 demogrficos
 demonstra
 demonstrado
+demonstram
 demonstrando
 demonstrao
 demonstrar
@@ -2013,6 +1998,7 @@ desafiadora
 desafiadoras
 desafiadores
 desafiaforal
+desafio
 desafios
 desagrega
 desagregador
@@ -2233,7 +2219,6 @@ diferenciao
 diferenciar
 diferente
 dificilmente
-dificuldade
 dificuldades
 dificulta
 dificultado
@@ -2388,7 +2373,6 @@ divulgados
 divulgaes
 divulgao
 divulgar
-diz
 dizem
 dizer
 django
@@ -2417,7 +2401,6 @@ documento
 doe
 doena
 doenas
-dois
 domiciliar
 domiciliares
 domiclio
@@ -2437,7 +2420,6 @@ dq
 driven
 drop
 dse
-duas
 duck
 duplicadas
 durabilidade
@@ -2470,6 +2452,7 @@ edmondskarp
 educacionais
 educacional
 educadores
+educao
 educar
 educativas
 educativo
@@ -2487,7 +2470,6 @@ efetuar
 efficientvit
 eficazes
 eficcia
-eficientes
 eficincia
 eg
 egressas
@@ -2543,7 +2525,6 @@ embasando
 embates
 embeddings
 embeddingsgegrficos
-embora
 embutidos
 emerge
 emergem
@@ -2602,7 +2583,6 @@ encontram
 encontramos
 encontramse
 encontrando
-encontrar
 encontraram
 encontrarem
 encontrarmos
@@ -2627,7 +2607,6 @@ enfrenta
 enfrentadas
 enfrentado
 enfrentados
-enfrentam
 enfrentar
 enfrentase
 enfrentem
@@ -2638,25 +2617,23 @@ engajar
 engajaram
 enganar
 enganosas
-engenharia
 engenheiros
 engine
 engloba
 englobando
 enorme
 enormes
-enquanto
 enredo
 enriquecedora
 enriquecer
 enriquecidas
 enriquecimento
 ensinar
+ensino
 ensinoaprendizagem
 ensinos
 entenda
 entendam
-entender
 entenderem
 entenderse
 entendesse
@@ -2666,7 +2643,6 @@ entendimento
 entendlos
 enterprise
 entidade
-entidades
 entomolgicas
 entra
 entrada
@@ -2742,7 +2718,6 @@ escaneamento
 escanear
 escanteios
 escassas
-escassez
 escasso
 escassos
 escola
@@ -2809,7 +2784,6 @@ esperados
 esperam
 esperamos
 esperando
-esperase
 espervamos
 esporte
 esportes
@@ -2868,7 +2842,6 @@ estratgicos
 estrela
 estrelas
 estresse
-estrutura
 estruturada
 estruturado
 estruturados
@@ -2907,6 +2880,7 @@ evaluation
 evaso
 eventdriven
 evento
+eventos
 eventosaes
 eventuais
 evidenciada
@@ -2991,10 +2965,8 @@ exigncias
 exijam
 exista
 existam
-existe
 existencial
 existente
-existentes
 existindo
 existir
 existirem
@@ -3020,7 +2992,6 @@ experimentlo
 experimento
 experimentos
 experimentouse
-experincia
 experincias
 expertise
 explcita
@@ -3122,7 +3093,6 @@ falha
 falsas
 falso
 falsos
-falta
 faltam
 faltas
 familiaridade
@@ -3140,7 +3110,6 @@ fatalidades
 fatias
 fato
 fator
-fatores
 fatos
 faturar
 favor
@@ -3148,7 +3117,6 @@ favorecendo
 favorecer
 fazem
 fazendo
-fazer
 fazerem
 faziam
 fazlo
@@ -3160,13 +3128,13 @@ fechado
 fechamento
 federada
 federadora
-federal
 federao
 federation
 feedback
 feedbacks
 feies
 feita
+feitas
 feito
 feitos
 feminina
@@ -3198,7 +3166,6 @@ filtrar
 filtrlas
 filtros
 finais
-final
 finalidade
 finalidades
 finalizado
@@ -3273,11 +3240,11 @@ formado
 formados
 formaes
 formal
+formao
 formar
 formas
 format
 formativo
-formato
 formatos
 formatura
 forms
@@ -3359,7 +3326,6 @@ funcionais
 funcional
 funcionalidade
 funcionam
-funcionamento
 funcionar
 funcionaria
 funcionava
@@ -3369,7 +3335,6 @@ function
 fundamentada
 fundamentadas
 fundamentado
-fundamentais
 fundamentalmente
 fundamentase
 fundamento
@@ -3467,7 +3432,6 @@ gerenciados
 gerenciam
 gerenciamento
 gerenciando
-gerenciar
 gerentes
 geridas
 gerir
@@ -3529,6 +3493,7 @@ grafos
 gramatical
 gramtica
 grandepb
+grandes
 grandeufcg
 granular
 gratuita
@@ -3682,7 +3647,6 @@ iguais
 igualar
 igualdade
 igualmente
-ii
 iii
 ilcitas
 ilegal
@@ -3781,7 +3745,6 @@ incidentes
 incidncia
 incio
 inclui
-incluindo
 incluir
 incluiu
 inclulas
@@ -3977,7 +3940,6 @@ integrar
 integridade
 inteiro
 intelectual
-inteligente
 inteligentes
 inteligncia
 inteligncias
@@ -4016,7 +3978,6 @@ interessante
 interessem
 interesses
 interest
-interface
 interfaces
 interfere
 interior
@@ -4371,7 +4332,6 @@ logv
 lojas
 lol
 longas
-longo
 lotao
 lote
 lowcode
@@ -4435,11 +4395,9 @@ mantidos
 mantis
 mantm
 manuais
-manual
 manualmente
 manuscritos
 manutenibilidade
-manuteno
 mapa
 mapas
 mapeadas
@@ -4504,7 +4462,6 @@ medies
 medieval
 medindo
 medio
-medir
 medo
 meeting
 meios
@@ -4512,7 +4469,6 @@ meis
 mej
 mel
 melfrequency
-melhor
 melhora
 melhoradas
 melhorado
@@ -4520,12 +4476,10 @@ melhorados
 melhoram
 melhoramento
 melhorando
-melhorar
 melhoras
 melhore
 melhorem
 melhores
-melhorias
 melhorou
 membro
 membros
@@ -4698,7 +4652,6 @@ mortes
 mortis
 mosquito
 mosquitos
-mostra
 mostrado
 mostram
 mostrando
@@ -4749,7 +4702,6 @@ mudando
 mudar
 mudaram
 muita
-muitos
 mulher
 mulheres
 multicamada
@@ -4777,6 +4729,7 @@ mutuamente
 mveis
 mvel
 mvp
+mximo
 nacional
 nacionalidades
 nai
@@ -4819,7 +4772,6 @@ necessitandose
 necessite
 necessitem
 necessria
-necessrias
 necessrios
 nee
 negativa
@@ -4840,8 +4792,6 @@ nelores
 nenhuma
 nessa
 nessas
-nesses
-nesta
 nestas
 nestes
 netdata
@@ -4869,7 +4819,6 @@ nicas
 nicbr
 nico
 nisso
-nmero
 nmeros
 nodegis
 nodegis3d
@@ -4903,7 +4852,6 @@ notado
 notados
 notamos
 notar
-notas
 notase
 notcia
 notcias
@@ -4975,7 +4923,6 @@ obstculo
 obstculos
 obtendo
 obteno
-obter
 obterem
 obteve
 obtevese
@@ -5008,6 +4955,7 @@ ofensiva
 ofensivas
 oferea
 oferecem
+oferecendo
 oferecer
 oferecida
 oferecidas
@@ -5127,7 +5075,6 @@ otimizado
 otimizaes
 otimizam
 otimizando
-otimizao
 otimizar
 otimizem
 outliers
@@ -5261,7 +5208,6 @@ peditrica
 pensada
 pensamento
 pensamos
-pensando
 pensar
 pequena
 pequenas
@@ -5460,7 +5406,6 @@ portable
 portadores
 portais
 portal
-portanto
 porte
 portes
 portflio
@@ -5477,11 +5422,8 @@ positivas
 positividade
 positivo
 positivos
-possa
 possam
-possibilidade
 possibilidades
-possibilita
 possibilitado
 possibilitam
 possibilitando
@@ -5648,9 +5590,7 @@ previsibilidade
 previso
 previsto
 prf
-primeira
 primeiras
-primeiro
 primeiros
 primordial
 principal
@@ -5686,7 +5626,6 @@ processamento
 processando
 processar
 processou
-procura
 procurado
 procuradorias
 procuram
@@ -5711,7 +5650,6 @@ professor
 professora
 proficincia
 profisses
-profissional
 profissionalmente
 profunda
 profundas
@@ -5843,7 +5781,6 @@ prreitora
 prrequisitos
 prs
 prtico
-prticos
 prtreinadas
 prtreinados
 prvestibular
@@ -5917,7 +5854,6 @@ quarto
 quase
 quatro
 quebra
-queda
 queimadaspb
 queiram
 queixa
@@ -5932,7 +5868,6 @@ questionando
 questionnaire
 questionrio
 questionrios
-questo
 queue
 quo
 raas
@@ -5977,12 +5912,12 @@ reagir
 reais
 realidade
 realiza
-realizadas
 realizado
 realizados
 realizam
 realizamos
 realizando
+realizao
 realizaram
 realizarem
 realizase
@@ -6051,6 +5986,7 @@ recursivo
 redash
 reddit
 redefinindo
+redes
 redigidos
 redimensionamento
 redor
@@ -6154,7 +6090,6 @@ relatos
 relatrio
 relatrios
 relevance
-relevante
 relevantes
 relevncia
 religiosas
@@ -6271,7 +6206,7 @@ responsiva
 responsividade
 responsveis
 responsvel
-resposta
+respostas
 ressalta
 ressaltando
 ressaltar
@@ -6497,6 +6432,7 @@ selecionar
 selecione
 selecionlos
 selees
+seleo
 seletiva
 seletivo
 seletivos
@@ -6518,6 +6454,7 @@ semnticas
 semntico
 semnticos
 sempenho
+sempre
 senado
 senha
 senioridade
@@ -6631,7 +6568,6 @@ sinttica
 sintticas
 sintticos
 sirva
-sistemtica
 sistemtico
 sistmico
 site
@@ -6907,7 +6843,6 @@ tende
 tendem
 tendncia
 tendncias
-tendo
 tenta
 tentados
 tentamos
@@ -6966,7 +6901,6 @@ tico
 tido
 tiering
 tiktok
-til
 tima
 time
 timers
@@ -7008,7 +6942,6 @@ tornando
 tornandoa
 tornandoas
 tornandose
-tornar
 tornaram
 tornaramse
 tornarem
@@ -7028,6 +6961,7 @@ totalmente
 tpica
 tpicas
 tpico
+tpicos
 traar
 trabalha
 trabalham
@@ -7041,7 +6975,6 @@ tracking
 tradeoff
 tradeoffs
 tradeofs
-tradicionais
 tradicional
 trading
 tradues
@@ -7136,6 +7069,7 @@ trnsito
 troca
 trocas
 trouxe
+trs
 trspontas
 trust
 trusted
@@ -7170,7 +7104,6 @@ uccn
 ucrnia
 udio
 udios
-ufcg
 ufo
 ufos
 ultimamente
@@ -7199,7 +7132,6 @@ unir
 unit
 unittest
 universal
-universidade
 universidades
 universitria
 universitrias
@@ -7277,12 +7209,10 @@ validaes
 validamos
 validando
 validao
-validar
 validveis
 valiosa
 valiosas
 valiosos
-valor
 valores
 valoriza
 valorizam
@@ -7353,10 +7283,8 @@ vetores
 vetoriais
 vetorizao
 vez
-vezes
 vgg16
 vi
-via
 viabilidade
 viabilizando
 viabilizao

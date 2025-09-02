@@ -1,0 +1,62 @@
+DOC_ID,ano,titulo,prob,flag
+234,2023,Ferramenta para análise de grandes volumes de dados neurofisiológicos.,0.0605223326850884,outlier_-1
+405,2021,Geração de eventos dinâmicos para jogos digitais: uma abordagem sistêmica.,0.0642266382265179,outlier_-1
+152,2023,Análise de emoções em transcrições de Adventure Time.,0.0683312014696112,outlier_-1
+24,2024,Automação de testes de penetração em aplicações web em ambien-tes de integração contínua.,0.0685824913950249,outlier_-1
+249,2023,Estudo e análise de técnicas para melhorar desempenho de sistemas front-end com react.,0.0694323658709826,outlier_-1
+393,2021,Anima: uma técnica para criar animações a partir de imagens estáticas em jogos.,0.0694500637469577,outlier_-1
+90,2024,Monitoração da sanidade de web scrapers com OpenTelemetry.,0.0726392852558702,outlier_-1
+188,2023,League of Legends: predição de resultados em tempo real.,0.0728283656024817,outlier_-1
+326,2021,Estudo comparativo entre frameworks fronted para a criação de um progressive web app (PWA).,0.0752302575627093,outlier_-1
+156,2023,Beez: aplicativo que une pessoas à formas de entretenimento.,0.0766640977491637,outlier_-1
+222,2023,Workload characterization of a large ecommerce platform.,0.076979409941303,outlier_-1
+163,2023,Estudo comparativo entre ferramentas de inicialização de projetos web.,0.0772923627760525,outlier_-1
+267,2022,Arrebol - sistema elástico de processamento em lote de aplicações single-node.,0.0774969671081948,outlier_-1
+66,2024,Uma abordagem de aprendizado de máquina comparando o desempenho preditivo e a interpretabilidade de modelos para prever o sucesso de jogadores de basquete da NCAA em alcançar a NBA.,0.0792803550001716,outlier_-1
+171,2023,Metodologia para análise preditiva de resultados de jogos esportivos: um estudo de caso por jogos da NBA.,0.0821034031199721,outlier_-1
+200,2023,Vitrine popular digital: o começo de uma aplicação para todos.,0.082374112006584,outlier_-1
+21,2024,Avaliação de embeddings geográficos em sistemas de recomendação de POIs.,0.0834269051513826,outlier_-1
+19,2024,Aplicando técnicas de aprendizado de máquina na previsão em tempo real de resultados de partidas de futebol: rocket e multirocket.,0.0839935563975239,outlier_-1
+28,2024,Avaliando modelos de LLM para personalização de consultas e aumento de relevância no e-commerce.,0.0849127783279108,outlier_-1
+320,2021,Rumo ao estrelato: uma análise com estatísticas de jogadores recém ingressados na NBA.,0.0849313531062095,outlier_-1
+150,2023,Análise do desempenho das equipes do NBB nas últimas três temporadas da liga.,0.0867709715910295,outlier_-1
+361,2020,Automação para o projeto Laserterapia da Universidade Federal de Campina Grande.,0.089391897295587,outlier_-1
+23,2024,Busca por produtos: um estudo comparativo de abordagens léxicas e semânticas.,0.0929633382679536,outlier_-1
+113,2022,Predição do preço do leite utilizando dados de cooperativas.,0.0936830722833755,outlier_-1
+190,2023,Internacionalização de websites.,0.0952104671849734,outlier_-1
+294,2022,A modernização do jogo: análise e caracterização de jogadores das 5 principais ligas de futebol europeias.,0.0957514635432104,outlier_-1
+362,2020,Uma alternativa para gerar planos semafóricos equilibrados e fluidos utilizando algoritmos genéricos.,0.0972120575134446,outlier_-1
+237,2023,CCC inteligente: uma ferramenta web que coleciona arquivos de conhecimento do CCC/UFCG através de repositórios virtuais de aprendizagem.,0.0972493913645681,outlier_-1
+298,2022,Analisando estratégias de navegação em websites de ecommerce.,0.0974617663245825,outlier_-1
+12,2024,Aplicativo para gerência de transporte escolar para cidades de pequeno porte.,0.0976716682980561,outlier_-1
+2,2024,O impacto do uso de tags de rastreamento na performance de um E-commerce.,0.0978476800670654,outlier_-1
+354,2020,Métodos de análise de dados no transporte público urbano.,0.0980894900187714,outlier_-1
+365,2020,Análise descritiva da eficiência do sistema de integração temporal no transporte público de Campina Grande – PB: um estudo de caso na Linha 944.,0.0998305073794955,outlier_-1
+192,2023,"Virtualização, Refatoração e Revitalização do Serviço Cursos UFCG: um relato de experiência.",0.1041611188766061,outlier_-1
+412,2021,LexFirma: sistema de gestão de contratos advocatícios.,0.1103560595431256,outlier_-1
+278,2022,Contrato inteligente de três pontas: pagamento seguro.,0.1191433197137025,outlier_-1
+60,2024,Desenvolvimento interativo de plugins para produção musical com testes em tempo real.,0.1315630857745375,outlier_-1
+123,2023,Avaliação comparativa em termos de memória e tempo de execução do algoritmo WFC aplicado à geração de mapas de jogos.,0.1315934696484087,outlier_-1
+277,2022,Express-image-server: uma biblioteca para construção de servidor de imagens com Node.js.,0.1456102836983263,outlier_-1
+44,2024,Uma análise comparativa entre Threads e Green Threads no Java.,0.1535261301066216,outlier_-1
+345,2020,Um estudo sobre a influência do assistente de ensino no feedback provido aos alunos em uma disciplina de programação orientada a objetos.,0.154472268724571,outlier_-1
+143,2023,Geração de clientes para comunicação assíncrona com base na especificação AsyncAPI.,0.1548415006143236,outlier_-1
+13,2024,Otimizando testes de GUI com Iterative Deepening URL-Based Search.,0.1555413724599719,outlier_-1
+216,2023,Avaliando o impacto do controle de concorrência do React 18: um estudo de caso.,0.1589510434740679,outlier_-1
+67,2024,Aplicações práticas dos algoritmos de fluxo máximo.,0.1599696045212671,outlier_-1
+324,2021,Análise de desempenho da Api io_uring em uma aplicação de uso intenso de dados.,0.1609753951752658,outlier_-1
+274,2022,MockTests: uma ferramenta para modelagem eficiente de testes envolvendo end-points de aplicações Back-end..,0.1622797904251349,outlier_-1
+419,2021,Validation of a simulation model for FasS performance benchamarking using predictive validation.,0.1647441479888965,outlier_-1
+55,2024,Uma abordagem para a descoberta automática de elementos web acionáveis para teste sistemático de GUI.,0.1795252071531966,outlier_-1
+182,2023,Guia para estilização de componentes reutilizáveis em aplicações angular.,0.1849741684353881,outlier_-1
+114,2022,Uso de execução de código para detectar problemas de design em atividades de Programação OO.,0.1995104626146415,outlier_-1
+196,2023,Classificação de queixas dermatológicas usando redes neurais convolucionais.,0.2008835236733201,outlier_-1
+121,2023,Efeito do estresse no desempenho acadêmico de concluintes em Ciência da Computação @ UFCG.,0.2205828829699251,outlier_-1
+170,2023,RecipeMaster: um sistema de gerenciamento de receitas para chefes de cozinha.,0.23423875546161,outlier_-1
+374,2021,Ataux: uma ferramenta para auxiliar o acompanhamento de submissões de questões de programação.,0.2408184815817171,outlier_-1
+176,2023,Reformulação de interface para o projeto SAPS.,0.259735279136894,outlier_-1
+86,2021,Construção e validação de manual para aplicação da metodologia MDV de verificação funcional.,0.2617414666685843,outlier_-1
+314,2021,Escala Vest: informatização de uma escala para avaliação de vazio existencial e sentido da vida.,0.2634559203134839,outlier_-1
+403,2021,Fracasso em projeto de software: um estudo de caso com um projeto de sistema WEB.,0.2670234223690961,outlier_-1
+260,2022,Avaliação de desempenho no armazenamento de dados para um sistema de processamento de imagens de satélite.,0.2738213168791598,outlier_-1
+99,2022,Estudo comparativo entre ferramentas de automação para implantação de infraestrutura em TI.,0.3020379746888511,outlier_-1

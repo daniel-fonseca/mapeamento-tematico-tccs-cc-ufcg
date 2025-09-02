@@ -1,0 +1,16 @@
+{
+  "run_id": "run_20250901T165942Z",
+  "best_trial_id": "trial_00",
+  "best_row": {
+    "trial_id": "trial_00",
+    "c_npmi": -0.05465022321180647,
+    "topic_diversity": 1.0,
+    "outlier_rate": 0.0,
+    "n_topics": 2,
+    "r1": 1.0,
+    "r2": 1.0,
+    "r3": 1.0,
+    "n_topics_penalty": 0.8,
+    "rank_sum": 7.0
+  }
+}
