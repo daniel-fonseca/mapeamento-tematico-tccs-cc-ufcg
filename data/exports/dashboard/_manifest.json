@@ -1,0 +1,47 @@
+{
+  "generated_at": "2025-09-04T20:13:53",
+  "paths": {
+    "root": "C:\\Users\\User\\Desktop\\TCC\\Notebooks locais\\analise_topicos_tcc",
+    "export_dir": "C:\\Users\\User\\Desktop\\TCC\\Notebooks locais\\analise_topicos_tcc\\data\\exports\\dashboard",
+    "best_dir": "C:\\Users\\User\\Desktop\\TCC\\Notebooks locais\\analise_topicos_tcc\\data\\exports\\dashboard\\bertopic_best"
+  },
+  "selection": {
+    "method": "bertopic",
+    "run": "run_20250831T230602Z",
+    "trial": "trial_24",
+    "K": 12,
+    "metrics": {
+      "c_npmi": 0.007560071814801735,
+      "c_v": 0.6058599854512132,
+      "diversity@10": 0.75,
+      "sep_jsd": 0.789577921470549,
+      "balance": 0.9262042731060053,
+      "clarity": 0.6036024422926879,
+      "RZ_index": 0.6800424648862116,
+      "GR_index": 0.13238824907920146
+    },
+    "reported_outliers_pct": 0.14420803782505912
+  },
+  "corpus": {
+    "n_docs": 423,
+    "years": {
+      "min": 2020,
+      "max": 2024
+    }
+  },
+  "topics": {
+    "n_topics": 11
+  },
+  "outliers": {
+    "count": 61,
+    "observed_pct": 0.14420803782505912
+  },
+  "artifacts_sha1": {
+    "docs.parquet": "c7e96171008eb237fa672020a10788db73021153",
+    "topics.parquet": "a6e65efd9a79f9646b51d6b84a257e80ff37201f",
+    "doc_topics.parquet": "1141d02e4916fb4b7705ab0491e46c4eeb375e97",
+    "topic_trends.parquet": "4c74bce0e8402eb8e731a53d44809d9d996b7bfb",
+    "advisor_profiles.parquet": "87e8815c7c35d9144678dab32605934eba9ea601",
+    "advisor_topics.parquet": "fb0f58d36615dedf163f1203d66869c77e1aa606"
+  }
+}
