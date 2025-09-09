@@ -1,0 +1,2 @@
+method,scenario,trial_dir,K,c_v,c_npmi,topic_diversity@10,outliers_pct,clarity
+bertopic,oficial,C:\Users\User\Desktop\TCC\Notebooks locais\analise_topicos_tcc\data\processed\bertopic\trial_00,5,0.4575611568403817,-0.20355272638852848,0.88,0.44680851063829785,0.715388141509927
